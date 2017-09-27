@@ -1,0 +1,4014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash LMS v1.4.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-04 08:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ learndash
+#: assignment_uploads.php:64
+msgid "Files you have uploaded"
+msgstr "File che hai caricato"
+
+# @ learndash
+#: assignment_uploads.php:89
+msgid "Assignments"
+msgstr "Compiti"
+
+# @ learndash
+#: assignment_uploads.php:92
+msgid "Filename"
+msgstr "Nome del file"
+
+# @ learndash
+#: assignment_uploads.php:93
+msgid "Download Link"
+msgstr "Link di Download"
+
+# @ learndash
+#: assignment_uploads.php:94
+msgid "User Login"
+msgstr "Login Utente"
+
+# @ learndash
+#: assignment_uploads.php:95
+msgid "User Name"
+msgstr "Nome Utente"
+
+# @ learndash
+#: assignment_uploads.php:96
+msgid "Status"
+msgstr "Status"
+
+# @ learndash
+#: assignment_uploads.php:112
+msgid "Confirm delete?"
+msgstr "Confermi la cancellazione?"
+
+# @ learndash
+#: assignment_uploads.php:112
+msgid "delete"
+msgstr "cancella"
+
+# @ learndash
+#: assignment_uploads.php:114
+msgid "Click here"
+msgstr "Fai click qui"
+
+# @ learndash
+#: assignment_uploads.php:116
+msgid "File does not exist"
+msgstr "Il file non esiste"
+
+# @ learndash
+#: assignment_uploads.php:128 course_progress.php:424 sfwd_lms.php:534
+#: sfwd_lms.php:2134
+msgid "Completed"
+msgstr "Completato"
+
+# @ learndash
+#: assignment_uploads.php:133 course_progress.php:61 course_progress.php:101
+msgid "Mark Complete"
+msgstr "Segna come Completato"
+
+# @ learndash
+#: assignment_uploads.php:269
+msgid "Unable to write to directory. Is this directory writable by the server?"
+msgstr ""
+"Impossibile scrivere nella directory. Questa directory è scrivibile nel "
+"server?"
+
+# @ learndash
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Niente di Trovato"
+
+# @ learndash
+#: content-none.php:17
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Spiacenti, ma non è stato trovato alcun risultato. Forse usare la ricerca "
+"aiuterà a trovare un post correlato."
+
+# @ learndash
+#: content.php:13
+msgid "Featured post"
+msgstr "Post in evidenza"
+
+# @ learndash
+#: content.php:22
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+# @ learndash
+#: content.php:27
+msgid "Leave a reply"
+msgstr "Lascia una risposta"
+
+# @ learndash
+#: content.php:27
+msgid "1 Reply"
+msgstr "1 Risposta"
+
+# @ learndash
+#: content.php:27
+msgid "% Replies"
+msgstr "% Risposte"
+
+# @ learndash
+#: content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere <span class=\"meta-nav\">&rarr;</span>"
+
+# @ learndash
+#: content.php:47
+msgid "Pages:"
+msgstr "Pagine:"
+
+# @ learndash
+#: content.php:68
+#, php-format
+msgid "View all posts by %s"
+msgstr "Vedi tutti i post di %s"
+
+# @ learndash
+#: content.php:74
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+"Questa voce è stata postata in %1$s e taggata %2$s il %3$s<span class=\"by-"
+"author\"> da %4$s</span>."
+
+# @ learndash
+#: content.php:76
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+"Questa voce è stata postata in %1$s il %3$s<span class=\"by-author\"> da "
+"%4$s</span>."
+
+# @ learndash
+#: content.php:78
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Questa voce è stata postata il %3$s <span class=\"by-author\"> da %4$s</"
+"span>."
+
+# @ learndash
+# @ wp-pro-quiz
+#: content.php:89 wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:218
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:50
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:78
+msgid "Edit"
+msgstr "Modifica"
+
+# @ learndash
+#: content.php:96
+#, php-format
+msgid "About %s"
+msgstr "Riguardo %s"
+
+# @ learndash
+#: content.php:100
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vedi tutti i post di %s <span class=\"meta-nav\" &rarr;</span>"
+
+# @ learndash
+#: conv_pdf.php:72
+msgid "Post does not exist."
+msgstr "Il post non esiste."
+
+# @ learndash
+#: conv_pdf.php:133
+msgid "<strong>Error: Directory not found.</strong><br /><br />Path: "
+msgstr "<strong>Errore: Directory non trovata.</strong><br /><br />Percorso:"
+
+# @ learndash
+#: conv_pdf.php:465
+msgid ""
+"<strong>Generating completed successfully.</strong><br /><br />Post/Page "
+"title: "
+msgstr ""
+"<strong>Creazione completata con successo.</strong><br /><br />Titolo del "
+"Post/Pagina:"
+
+# @ learndash
+#: conv_pdf.php:465
+msgid "<br />Output path: "
+msgstr "<br />Percorso di output:"
+
+# @ learndash
+#: conv_pdf.php:465
+msgid "<br /><br />Go back to "
+msgstr "<br /><br />Ritorna a"
+
+# @ learndash
+#: conv_pdf.php:465
+msgid "the settig panel</a>."
+msgstr "il pannello di controllo</a>."
+
+# @ learndash
+#: conv_pdf.php:465
+msgid "POST2PDF Converter"
+msgstr "POST2PDF Converter"
+
+# @ learndash
+#: course_info_widget.php:6
+msgid ""
+"LearnDash - Course attempt and score information of users. Visible only to "
+"users logged in."
+msgstr ""
+"LearnDash - Informazioni sullo stato del corso e sui punteggi degli utenti. "
+"Visibile solo agli utenti registrati."
+
+# @ learndash
+#: course_info_widget.php:8
+msgid "Course Information"
+msgstr "Informazioni sul corso"
+
+# @ learndash
+#: course_info_widget.php:49 course_info_widget.php:100
+#: course_progress.php:664 sfwd_cpt.php:280
+msgid "Title:"
+msgstr "Titolo:"
+
+# @ learndash
+#: course_info_widget.php:58
+msgid "LearnDash - Course Navigation. Shows lessons on a course."
+msgstr "LearnDash - Navigazione le del Corso. Mostra le lezioni in un corso."
+
+# @ learndash
+#: course_info_widget.php:60
+msgid "Course Navigation"
+msgstr "Navigazione del Corso"
+
+# @ learndash
+#: course_progress.php:41 sfwd_lms.php:325
+msgid "Upload Assignment"
+msgstr "Carica Compito"
+
+# @ learndash
+#: course_progress.php:47
+msgid "Upload"
+msgstr "Carica"
+
+# @ learndash
+#: course_progress.php:420
+msgid "Not Started"
+msgstr "Non Iniziato"
+
+# @ learndash
+#: course_progress.php:422
+msgid "In Progress"
+msgstr "In Progresso"
+
+# @ learndash
+#: course_progress.php:627
+msgid "LearnDash course progress bar"
+msgstr "Barra del progresso del corso LearnDash"
+
+# @ learndash
+#: course_progress.php:629
+msgid "Course Progress Bar"
+msgstr "Barra di Progresso del Corso"
+
+# @ learndash
+#: enroll_users.php:9
+msgid "Enrolled Courses"
+msgstr "Corsi a cui sei iscritto"
+
+# @ learndash
+#: enroll_users.php:31
+msgid "Enroll a Course"
+msgstr "Iscriviti a un Corso"
+
+# @ learndash
+#: enroll_users.php:42
+msgid "Unenroll a Course"
+msgstr "Cancellata da un Corso"
+
+# @ learndash
+#: groups.php:8
+msgid "Empty value"
+msgstr "Valore Vuoto"
+
+# @ learndash
+#: groups.php:36
+msgid "Email could not be sent to: "
+msgstr "Non è stato possibile inviare un'email a:"
+
+# @ learndash
+#: groups.php:39
+msgid "Email sent to: "
+msgstr "Email inviata a:"
+
+# @ default
+#: groups.php:48
+msgctxt "post type general name"
+msgid "LearnDash Groups"
+msgstr "Gruppi LearnDash [ nome generico del post type ]"
+
+# @ default
+#: groups.php:49
+msgctxt "post type singular name"
+msgid "LearnDash Group"
+msgstr "Gruppo LearnDash [ nome singolare del postt type ]"
+
+# @ default
+#: groups.php:50
+msgctxt "learndash"
+msgid "Add New"
+msgstr "Aggiungi Nuovo [ learndash ]"
+
+# @ learndash
+#: groups.php:51
+msgid "Add New LearnDash Group"
+msgstr "Aggiungi Nuovo Gruppo LearnDash"
+
+# @ learndash
+#: groups.php:52
+msgid "Edit LearnDash Group"
+msgstr "Modifica Gruppo Learn Dash"
+
+# @ learndash
+#: groups.php:53
+msgid "New LearnDash Group"
+msgstr "Nuovo Gruppo LearnDash"
+
+# @ learndash
+#: groups.php:54 groups.php:61
+msgid "LearnDash Groups"
+msgstr "Gruppi LearnDash"
+
+# @ learndash
+#: groups.php:55
+msgid "LearnDash Group Updated."
+msgstr "Gruppo LearnDash Aggiornato."
+
+# @ learndash
+#: groups.php:56
+msgid "View LearnDash Group"
+msgstr "Vedi Gruppo LearnDash"
+
+# @ learndash
+#: groups.php:57
+msgid "Search LearnDash Group"
+msgstr "Cerca Gruppo LearnDash"
+
+# @ learndash
+#: groups.php:58
+msgid "No LearnDash Group found"
+msgstr "Nessuno Gruppo LearnDash trovato"
+
+# @ learndash
+#: groups.php:59
+msgid "No LearnDash Group found in the Trash"
+msgstr "Nessun Gruppo LearnDash trovato nel Cestino"
+
+# @ learndash
+#: groups.php:85 groups.php:88
+msgid "LearnDash Group updated."
+msgstr "Gruppo LearnDash aggiornato."
+
+# @ learndash
+#: groups.php:86
+msgid "Custom field updated."
+msgstr "Campo personalizzato aggiornato."
+
+# @ learndash
+#: groups.php:87
+msgid "Custom field deleted."
+msgstr "Campo personalizzato cancellato."
+
+# @ learndash
+#. translators: %s: date and time of the revision
+#: groups.php:90
+#, php-format
+msgid "LearnDash Group restored to revision from %s"
+msgstr "Gruppo LearnDash ripristinato alla revisione da %s"
+
+# @ learndash
+#: groups.php:91
+msgid "Group published."
+msgstr "Gruppo pubblicato."
+
+# @ learndash
+#: groups.php:92
+msgid "LearnDash Group saved."
+msgstr "Gruppo LearnDash salvato."
+
+# @ learndash
+#: groups.php:93
+msgid "LearnDash Group submitted. "
+msgstr "Gruppo LearnDash inviato."
+
+# @ learndash
+#: groups.php:94
+#, php-format
+msgid "LearnDash Group scheduled for: <strong>%1$s</strong>. "
+msgstr "Gruppo LearnDash pianificato per: <strong> %1$s</strong>."
+
+# @ default
+#: groups.php:96
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+# @ learndash
+#: groups.php:97
+msgid "Group draft updated."
+msgstr "Bozza del Gruppo aggiornata."
+
+# @ learndash
+#: groups.php:119
+msgid "LearnDash Group"
+msgstr "Gruppo LearnDash"
+
+# @ learndash
+#: groups.php:206
+msgid "Group Leaders"
+msgstr "Leader del Gruppo"
+
+# @ learndash
+#: groups.php:247
+msgid "Please add some users with Group Leader role"
+msgstr "Inserisci altri utenti con il ruolo di Leader del Gruppo"
+
+# @ learndash
+#: groups.php:250
+msgid "Assign Users"
+msgstr "Assegna Utenti"
+
+# @ learndash
+#: groups.php:383 groups.php:489
+msgid "Please login as a Group Administrator"
+msgstr "Effetta il login come Amministratore di Gruppo"
+
+# @ learndash
+#: groups.php:396 groups.php:405 groups.php:502 groups.php:511
+msgid "S. No."
+msgstr "S. No."
+
+# @ learndash
+# @ wp-pro-quiz
+#: groups.php:397 groups.php:406
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:450
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:15
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:28
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:56
+msgid "Name"
+msgstr "Nome"
+
+# @ learndash
+# @ wp-pro-quiz
+#: groups.php:398 groups.php:407
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:286
+msgid "Username"
+msgstr "Nome Utente"
+
+# @ learndash
+#: groups.php:399 groups.php:408
+msgid "Email"
+msgstr "Email"
+
+# @ learndash
+# @ wp-pro-quiz
+#: groups.php:400 groups.php:409 groups.php:506 groups.php:515
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:79
+msgid "Action"
+msgstr "Azione"
+
+# @ learndash
+#: groups.php:422
+msgid "Report"
+msgstr "Resoconto"
+
+# @ learndash
+#: groups.php:432
+msgid "No users."
+msgstr "Nessun utente."
+
+# @ learndash
+#: groups.php:481 groups.php:497 groups.php:543 groups.php:614
+msgid "Group Administration"
+msgstr "Amministrazione del Gruppo"
+
+# @ learndash
+#: groups.php:504 groups.php:513
+msgid "Group"
+msgstr "Gruppo"
+
+# @ learndash
+#: groups.php:526
+msgid "List Users"
+msgstr "Elenca Utenti"
+
+# @ learndash
+#: groups.php:526
+msgid "Export Progress"
+msgstr "Esporta i Progressi"
+
+# @ learndash
+#: groups.php:526
+msgid "Export Results"
+msgstr "Esporta i Risultati"
+
+# @ learndash
+# @ wp-pro-quiz
+#: groups.php:543 groups.php:614
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:378
+msgid "Back"
+msgstr "Indietro"
+
+# @ learndash
+#: groups.php:556
+msgid "Email Subject:"
+msgstr "Oggetto dell'Email:"
+
+# @ learndash
+#: groups.php:560
+msgid "Email Message:"
+msgstr "Messaggio Email:"
+
+# @ learndash
+# @ wp-pro-quiz
+#: groups.php:564 groups.php:592
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:464
+msgid "Send"
+msgstr "Invia"
+
+# @ learndash
+#: groups.php:573
+msgid "Sending..."
+msgstr "Invio in corso..."
+
+# @ learndash
+#: groups.php:575
+msgid "Please Wait"
+msgstr "Rimani in Attesa"
+
+# @ learndash
+#: groups.php:651
+msgid "Group Leader in : "
+msgstr "Leader del Gruppo in:"
+
+# @ learndash
+#: groups.php:663
+msgid "Assigned Group(s) : "
+msgstr "Gruppi Assegnati:"
+
+# @ learndash
+#: quiz_pro.php:130
+msgid "PRINT YOUR CERTIFICATE!"
+msgstr "STAMPA IL TUO CERTIFICATO!"
+
+# @ learndash
+#: quizinfo_shortcode.php:48
+msgid "Yes"
+msgstr "Sì"
+
+# @ learndash
+#: quizinfo_shortcode.php:48
+msgid "No"
+msgstr "no"
+
+# @ learndash
+#: sfwd_cpt.php:19
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+# @ learndash
+#: sfwd_cpt.php:21
+#, php-format
+msgid "Add New %s"
+msgstr "Aggiungi Nuovo %s"
+
+# @ learndash
+#: sfwd_cpt.php:22
+#, php-format
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+# @ learndash
+#: sfwd_cpt.php:23
+#, php-format
+msgid "New %s"
+msgstr "Nuovo %s"
+
+# @ learndash
+#: sfwd_cpt.php:24
+#, php-format
+msgid "View %s"
+msgstr "Vedi %s"
+
+# @ learndash
+#: sfwd_cpt.php:25
+#, php-format
+msgid "Search %s"
+msgstr "Cerca %s"
+
+# @ learndash
+#: sfwd_cpt.php:26
+#, php-format
+msgid "No %s found"
+msgstr "Nessun %s trovato"
+
+# @ learndash
+#: sfwd_cpt.php:27
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Nessun %s trovati nel Cestino"
+
+# @ learndash
+#: sfwd_cpt.php:28
+#, php-format
+msgid "Parent %s"
+msgstr "%s genitore"
+
+# @ learndash
+#: sfwd_cpt.php:136 sfwd_lms.php:2367
+#, php-format
+msgid " Available on: %s "
+msgstr "Disponibile %s il:"
+
+# @ learndash
+#: sfwd_cpt.php:227
+#, php-format
+msgid "Displays a list of %s"
+msgstr "Mostra un elenco di %s"
+
+# @ learndash
+#: sfwd_lms.php:211
+msgid "Courses"
+msgstr "Coursi"
+
+# @ learndash
+#: sfwd_lms.php:215 sfwd_lms.php:321 sfwd_lms.php:365
+msgid "Manage Course Associations"
+msgstr "Gestisci le Associazioni dei Corsi"
+
+# @ learndash
+#: sfwd_lms.php:220 sfwd_lms.php:1060
+msgid "Course Materials"
+msgstr "Materiali del Corso"
+
+# @ learndash
+#: sfwd_lms.php:222
+msgid "Options for course materials"
+msgstr "Opzioni per i materiali del corso"
+
+# @ learndash
+#: sfwd_lms.php:226
+msgid "Course Price"
+msgstr "Prezzo del Corso"
+
+# @ learndash
+#: sfwd_lms.php:228
+msgid "Options for course price"
+msgstr "Opzioni per il prezzo del corso"
+
+# @ learndash
+#: sfwd_lms.php:232
+msgid "Course Join Button"
+msgstr "Pulsante Iscriviti al Corso"
+
+# @ learndash
+#: sfwd_lms.php:235
+msgid ""
+"Show a Join button to start taking the course. This is applicable only for "
+"free courses."
+msgstr ""
+"Mostra un pulsante Iscriviti al Corso per prendere parte al corso. "
+"Applicabile solo per i corsi gratuiti."
+
+# @ learndash
+#: sfwd_lms.php:238
+msgid "Course Access List"
+msgstr "Lista di Accesso al Corso"
+
+# @ learndash
+#: sfwd_lms.php:240
+msgid "Access list for courses."
+msgstr "Lista di accesso per i corsi."
+
+# @ learndash
+#: sfwd_lms.php:243
+msgid "Sort Lesson By"
+msgstr "Ordina Lezioni Per"
+
+# @ learndash
+#: sfwd_lms.php:246 sfwd_lms.php:258
+msgid "Use Default"
+msgstr "Usa le Impostazioni Predefinite"
+
+# @ learndash
+# @ wp-pro-quiz
+#: sfwd_lms.php:247 sfwd_lms.php:334 sfwd_lms.php:416 sfwd_lms.php:903
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:22
+msgid "Title"
+msgstr "Titolo"
+
+# @ learndash
+#: sfwd_lms.php:248 sfwd_lms.php:335 sfwd_lms.php:417 sfwd_lms.php:904
+msgid "Date"
+msgstr "Data"
+
+# @ learndash
+#: sfwd_lms.php:249 sfwd_lms.php:336 sfwd_lms.php:418 sfwd_lms.php:905
+msgid "Menu Order"
+msgstr "Ordine del Menu"
+
+# @ learndash
+#: sfwd_lms.php:252 sfwd_lms.php:263
+msgid "Choose the sort order of lessons in this course."
+msgstr "Scegli l'ordinamento delle lezioni in questo corso."
+
+# @ learndash
+#: sfwd_lms.php:255
+msgid "Sort Lesson Direction"
+msgstr "Direzione di Ordinamento delle Lezioni"
+
+# @ learndash
+#: sfwd_lms.php:259 sfwd_lms.php:346 sfwd_lms.php:428 sfwd_lms.php:915
+msgid "Ascending"
+msgstr "Ascendente"
+
+# @ learndash
+#: sfwd_lms.php:260 sfwd_lms.php:347 sfwd_lms.php:429 sfwd_lms.php:916
+msgid "Descending"
+msgstr "Discendente"
+
+# @ learndash
+#: sfwd_lms.php:265
+msgid "Course prerequities"
+msgstr "Prerequisiti per il corso"
+
+# @ learndash
+#: sfwd_lms.php:265
+msgid "Select a course as prerequities to view this course"
+msgstr "Scegli un corso come prerequisito per vedere questo corso"
+
+# @ learndash
+#: sfwd_lms.php:267
+msgid "Disable Lesson Progression"
+msgstr "Disabilita la Progressione delle Lezioni"
+
+# @ learndash
+#: sfwd_lms.php:270
+msgid ""
+"Disable the feature that allows attempting lessons only in allowed order."
+msgstr ""
+"Disabilita la caratteristica che permette di frequentare le lezioni solo "
+"nell'ordine consentito."
+
+# @ learndash
+#: sfwd_lms.php:274
+msgid "PayPal Email"
+msgstr "Email PayPal"
+
+# @ learndash
+#: sfwd_lms.php:274
+msgid "Enter your PayPal email here."
+msgstr "Inserisci qui la tua email PayPal."
+
+# @ learndash
+#: sfwd_lms.php:275
+msgid "PayPal Currency"
+msgstr "Valuta PayPal"
+
+# @ learndash
+#: sfwd_lms.php:275
+msgid "Enter the currency code for transactions."
+msgstr "Inserisci il codice di valuta per le transazioni."
+
+# @ learndash
+#: sfwd_lms.php:276
+msgid "PayPal Country"
+msgstr "Paese PayPal"
+
+# @ learndash
+#: sfwd_lms.php:276
+msgid "Enter your country code here."
+msgstr "Inserisci qui il tuo codice paese."
+
+# @ learndash
+#: sfwd_lms.php:277
+msgid "PayPal Cancel URL"
+msgstr "PayPal Cancel URL"
+
+# @ learndash
+#: sfwd_lms.php:277
+msgid "Enter the URL used for purchase cancellations."
+msgstr "Inserisci l'URL usato per cancellare gli acquisti."
+
+# @ learndash
+#: sfwd_lms.php:278
+msgid "PayPal Return URL"
+msgstr "PayPal Return URL"
+
+# @ learndash
+#: sfwd_lms.php:278
+msgid ""
+"Enter the URL used for completed purchases (typically a thank you page)."
+msgstr ""
+"Inserisci l'URL usato per gli acquisti completati (tipicamente una pagina di "
+"ringraziamento)."
+
+# @ learndash
+#: sfwd_lms.php:279
+msgid "PayPal Notify URL"
+msgstr "PayPal Notify URL"
+
+# @ learndash
+#: sfwd_lms.php:279
+msgid "Enter the URL used for IPN notifications."
+msgstr "Inserisci l'URL usato per le notifiche IPN."
+
+# @ learndash
+#: sfwd_lms.php:280
+msgid "Use PayPal Sandbox"
+msgstr "Usa la SandBox di Paypal"
+
+# @ learndash
+#: sfwd_lms.php:280
+msgid "Check to enable the PayPal sandbox."
+msgstr "Spunta per permettere la SandBox di Paypal."
+
+# @ learndash
+#: sfwd_lms.php:282 sfwd_lms.php:284
+msgid "Shortcode Options"
+msgstr "Opzioni degli Shortcode"
+
+# @ learndash
+#: sfwd_lms.php:286
+msgid ""
+"You may use shortcodes to add information to any page/course/lesson/quiz. "
+"Here are built-in shortcodes for displaying relavent user information."
+msgstr ""
+"Puoi utilizzare gli shortcode (abbreviazioni) per aggiungere informazioni a "
+"qualsiasi pagina/corso/lezione/quiz. Ecco gli shortcose integrati per "
+"mostrare informazioni sugli utenti rilevanti."
+
+# @ learndash
+#: sfwd_lms.php:287
+msgid ""
+"This shortcode displays the users course progress and list of quiz scores."
+msgstr ""
+"Questo shortcode mostra il progresso degli utenti ed un elenco dei punteggi "
+"ai quiz."
+
+# @ learndash
+#: sfwd_lms.php:290
+msgid ""
+"This shortcode shows list of courses. You can use this short code on any "
+"page if you dont want to use the default /courses page. This short code can "
+"take following parameters:"
+msgstr ""
+"Questo shortcode mostra un elenco di corsi. Puoi usare questo shortcode in "
+"qualsiasi pagina se non vuoi utilizzare la pagina di default dei corsi. "
+"Questo shortcode può ricevere i seguenti parametri:"
+
+# @ learndash
+#: sfwd_lms.php:292
+msgid ""
+"limits the number of courses displayed. Example: <b>[ld_course_list num="
+"\"10\"]</b> shows 10 courses."
+msgstr ""
+"limita il numero di corsi mostrati. Esempio: <b>[ld_course_list num=\"10\"]</"
+"b> mostra 10 corsi."
+
+# @ learndash
+#: sfwd_lms.php:293
+msgid ""
+"sets order of courses. Possible values: <b>DESC</b>, <b>ASC</b>. Example: <b>"
+"[ld_course_list order=\"ASC\"]</b> shows courses in ascending order."
+msgstr ""
+"stabilisce l'ordine dei corsi. Possibili valori: <b>DESC</b>, <b>ASC</b>. "
+"Esempio: <b>[ld_course_list order=\"ASC\"]</b> mostra i corsi in ordine "
+"ascendente."
+
+# @ learndash
+#: sfwd_lms.php:294
+msgid ""
+"sets what the list of ordered by. Example: <b>[ld_course_list order=\"ASC\" "
+"orderby=\"title\"]</b> shows courses in ascending order by title."
+msgstr ""
+"stabilisce il criterio di ordinamento. Esempio: <b>[ld_course_list order="
+"\"ASC\" orderby=\"title\"]</b> mostra i corsi in ordine ascendente secondo "
+"il loro titolo."
+
+# @ learndash
+#: sfwd_lms.php:295
+msgid ""
+"shows courses with mentioned tag. Example: <b>[ld_course_list tag=\"math\"]</"
+"b> shows courses having tag math."
+msgstr ""
+"mostra i corsi con il tag menzionato. Esempio: <b>[ld_course_list tag="
+"\"matematica\"]</b> mostra i corsi che hanno il tag matematica."
+
+# @ learndash
+#: sfwd_lms.php:296
+msgid ""
+"shows courses with mentioned tag_id. Example: <b>[ld_course_list tag_id="
+"\"30\"]</b> shows courses having tag with tag_id 30."
+msgstr ""
+"mostra i corsi con il tag_id menzionato. Esempio: <b>[ld_course_list tag_id="
+"\"30\"]</b> mostra i corsi che hanno un tag con un tag_id 30."
+
+# @ learndash
+#: sfwd_lms.php:297
+msgid ""
+"show current user's courses. Example: <b>[ld_course_list mycourses=\"true\"]"
+"</b> shows courses the current user has access to."
+msgstr ""
+"mostra i corsi dell'utente attuale. Esempio: <b>[ld_course_list mycourses="
+"\"true\"]</b> mostra i corsi ai quali ha accesso l'utente attuale."
+
+# @ learndash
+#: sfwd_lms.php:299
+msgid ""
+"See <a target=\"_blank\" href=\"https://codex.wordpress.org/Class_Reference/"
+"WP_Query#Order_.26_Orderby_Parameters\">the full list of available orderby "
+"options here.</a>"
+msgstr ""
+"Vedi <a target=\"_blank\" href=\"https://codex.wordpress.org/Class_Reference/"
+"WP_Query#Order_.26_Orderby_Parameters\">qui la lista completa di opzioni di "
+"ordinamento.</a>"
+
+# @ learndash
+#: sfwd_lms.php:301
+msgid ""
+"This shortcode shows list of lessons. You can use this short code on any "
+"page. This short code can take following parameters: num, order, orderby, "
+"tag, tag_id. See [ld_course_list] above details on using the shortcode "
+"parameters."
+msgstr ""
+"Questo shortcode mostra un elenco di lezioni. Puoi usare questo shortcode in "
+"qualsiasi pagina. Questo shortcode può ricevere i seguenti parametri: num, "
+"order, orderby, tag, tag_id. Vedi i dettagli [ld_course_list] qui sopra "
+"sull'utilizzo dei parametri degli shortcode."
+
+# @ learndash
+#: sfwd_lms.php:303
+msgid ""
+"This shortcode shows list of quizzes. You can use this short code on any "
+"page. This short code can take following parameters: num, order, orderby, "
+"tag, tag_id. See [ld_course_list] above details on using the shortcode "
+"parameters."
+msgstr ""
+"Questo shortcode mostra un elenco di quiz. Puoi usare questo shortcode in "
+"qualsiasi pagina. Questo shortcode può ricevere i seguenti parametri: num, "
+"order, orderby, tag, tag_id. Vedi i dettagli [ld_course_list] qui sopra "
+"sull'utilizzo dei parametri degli shortcode."
+
+# @ learndash
+#: sfwd_lms.php:305
+msgid ""
+"This shortcode displays users progress bar for the course in any course/"
+"lesson/quiz pages."
+msgstr ""
+"Questo shortcode mostra la barra di progresso degli utenti per il corso in "
+"qualsiasi pagina corso/lezione/quiz."
+
+# @ learndash
+#: sfwd_lms.php:307
+msgid ""
+"This shortcode displays the list of groups users are assigned to as users or "
+"leaders."
+msgstr ""
+"Questo shortcode mostra l'elenco di gruppi ai quali gli utenti sono "
+"assegnati come utenti o leader."
+
+# @ learndash
+#: sfwd_lms.php:317 sfwd_lms.php:1076
+msgid "Lessons"
+msgstr "Lezioni"
+
+# @ learndash
+#: sfwd_lms.php:324
+msgid "Forced Lesson Timer"
+msgstr "Timer Forzato per la Lezione"
+
+# @ learndash
+#: sfwd_lms.php:324
+msgid ""
+"Minimum time a user has to spend on Lesson page before it can be marked "
+"complete. Examples: 40 (for 40 seconds), 20s, 45sec, 2m 30s, 2min 30sec, 1h "
+"5m 10s, 1hr 5min 10sec"
+msgstr ""
+"Minimo di tempo che un utente deve trascorrere in una pagina di Lezione "
+"prima che questa possa essere marcata come completa. Esempi: 40 (per 40 "
+"secondi), 20s, 45s, 2m 30s, 2min 30 sec, 1h 5m 10s, 1hr 5 min 10 sec"
+
+# @ learndash
+#: sfwd_lms.php:325
+msgid "Check this if you want to make it mandatory to upload assignment"
+msgstr ""
+"Spunta questo se cuoi rendere obbligatorio il caricamento dei compito svolti."
+
+# @ learndash
+#: sfwd_lms.php:326
+msgid "Make lesson visible X days after sign-up"
+msgstr "Rendi visibile la lezione dopo X giorni dall'iscrizione"
+
+# @ learndash
+#: sfwd_lms.php:326
+msgid "Make lesson visible ____ days after sign-up"
+msgstr "Rendi visibile la lezione dopo ____ giorni dall'iscrizione"
+
+# @ learndash
+#: sfwd_lms.php:330 sfwd_lms.php:412 sfwd_lms.php:899
+msgid "Sort By"
+msgstr "Ordina per"
+
+# @ learndash
+#: sfwd_lms.php:333 sfwd_lms.php:345 sfwd_lms.php:415 sfwd_lms.php:427
+#: sfwd_lms.php:902 sfwd_lms.php:914
+msgid "Select a choice..."
+msgstr "Scegli un'opzione..."
+
+# @ learndash
+#: sfwd_lms.php:339 sfwd_lms.php:350 sfwd_lms.php:421 sfwd_lms.php:432
+#: sfwd_lms.php:908 sfwd_lms.php:919
+msgid "Choose the sort order."
+msgstr "Scegli l'ordinamento."
+
+# @ learndash
+#: sfwd_lms.php:342 sfwd_lms.php:424 sfwd_lms.php:911
+msgid "Sort Direction"
+msgstr "Direzione dell'Ordinamento"
+
+# @ learndash
+#: sfwd_lms.php:353 sfwd_lms.php:435 sfwd_lms.php:922
+msgid "Posts Per Page"
+msgstr "Post per Pagina"
+
+# @ learndash
+#: sfwd_lms.php:355 sfwd_lms.php:437 sfwd_lms.php:924
+msgid "Enter the number of posts to display per page."
+msgstr "Inserisci il numero di post da mostrare per pagina."
+
+# @ learndash
+#: sfwd_lms.php:361 sfwd_lms.php:1080 sfwd_lms.php:1143
+msgid "Quizzes"
+msgstr "Quiz"
+
+# @ learndash
+#: sfwd_lms.php:369
+msgid "Repeats"
+msgstr "Ripetizioni"
+
+# @ learndash
+#: sfwd_lms.php:369
+msgid "Number of repeats allowed for quiz"
+msgstr "Numero di ripetizioni consentite per quiz"
+
+# @ learndash
+#: sfwd_lms.php:370
+msgid "Certificate Threshold"
+msgstr "Soglia del Certificato"
+
+# @ learndash
+#: sfwd_lms.php:370
+msgid ""
+"Minimum score required to award a certificate, between 0 and 1 where 1 = "
+"100%."
+msgstr ""
+"Punteggio minimo per conseguire un certificato, tra 0 ed 1, dove 1 = 100%"
+
+# @ learndash
+#: sfwd_lms.php:371
+msgid "Passing Percentage"
+msgstr "Percentuale di Passaggio"
+
+# @ learndash
+#: sfwd_lms.php:371
+msgid ""
+"Passing percentage required to pass the quiz (number only). e.g. 80 for 80%."
+msgstr ""
+"Percentuale di passaggio richiesta per superare il quiz (solo numeri). Es. "
+"80 per 80%"
+
+# @ learndash
+#: sfwd_lms.php:372
+msgid "Associated Lesson"
+msgstr "Lezione Associata"
+
+# @ learndash
+#: sfwd_lms.php:372
+msgid "Optionally associate a quiz with a lesson."
+msgstr "Associa opzionalmente un quiz ad una lezione."
+
+# @ learndash
+#: sfwd_lms.php:373
+msgid "Associated Certificate"
+msgstr "Certificato Associato"
+
+# @ learndash
+#: sfwd_lms.php:373
+msgid "Optionally associate a quiz with a certificate."
+msgstr "Associa opzionalmente un quiz ad un certificato."
+
+# @ learndash
+#: sfwd_lms.php:374
+msgid "Advanced Quiz"
+msgstr "Quiz Avanzato"
+
+# @ learndash
+#: sfwd_lms.php:374
+msgid ""
+"Select an Advanced. Quiz, or build a Simple Quiz below. You can create an "
+"Advanced Quiz <a href=\""
+msgstr ""
+"Scegli un Quiz Avanzato, oppure crea un Quiz Semplice qui sotto. Puoi creare "
+"un Quiz Avanzato <a href=\""
+
+# @ learndash
+# @ wp-pro-quiz
+#: sfwd_lms.php:376 sfwd_lms.php:549
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:409
+msgid "Quiz"
+msgstr "Quiz"
+
+# @ learndash
+#: sfwd_lms.php:378
+msgid "Options for quiz"
+msgstr "Opzioni per il quiz"
+
+# @ learndash
+#: sfwd_lms.php:381
+msgid ""
+"You may select a quiz above or edit your quiz below once this post is "
+"created. <b style=\"color:#f00;\">All fields are required and MUST be filled "
+"in, or data will be lost</b>, quizzes are in multiple choice format."
+msgstr ""
+"Puoi scegliere un quiz qui sopra o modificare il tuo quiz qui sotto una "
+"volta che questo post è creato. <b style=\"color:#f00;\">Tutti i campi sono "
+"richiesti e DEVONO essere compilati, oppure i dati verranno persi </b>, i "
+"quiz sono in formato scelta multipla."
+
+# @ learndash
+#: sfwd_lms.php:385
+msgid "Start Button Text"
+msgstr "Testo del Pulsante Start"
+
+# @ learndash
+#: sfwd_lms.php:385
+msgid "Display this text on the start button for the quiz"
+msgstr "Mostra questo testo sul pulsante di inizio per i quiz"
+
+# @ learndash
+#: sfwd_lms.php:385
+msgid "Get Started!"
+msgstr "Inizia!"
+
+# @ learndash
+#: sfwd_lms.php:386
+msgid "Check Answer Text"
+msgstr "Testo Controlla Risposta"
+
+# @ learndash
+#: sfwd_lms.php:386
+msgid "Text displayed for check answer button."
+msgstr "Testo mostrato per il pulsante di controllo risposta."
+
+# @ learndash
+#: sfwd_lms.php:386
+msgid "Check My Answer!"
+msgstr "Controlla la Mia Risposta!"
+
+# @ learndash
+#: sfwd_lms.php:387
+msgid "Next Question Text"
+msgstr "Testo Prossima Domanda"
+
+# @ learndash
+#: sfwd_lms.php:387
+msgid "Text displayed for next question button."
+msgstr "Testo mostrato per il pulsante prossima domanda."
+
+# @ learndash
+#: sfwd_lms.php:387
+msgid "Next >>"
+msgstr "Prossima >>"
+
+# @ learndash
+#: sfwd_lms.php:388
+msgid "Back Button Text"
+msgstr "Testo Pulsante Indietro"
+
+# @ learndash
+#: sfwd_lms.php:388
+msgid "Text displayed for back button."
+msgstr "Testo mostrato per il pulsante indietro."
+
+# @ learndash
+#: sfwd_lms.php:389
+msgid "Your Score Text"
+msgstr "Testo Il Tuo Punteggio"
+
+# @ learndash
+#: sfwd_lms.php:389
+msgid "Text displayed for your score prompt."
+msgstr "Testo mostrato per far apparire il tuo punteggio."
+
+# @ learndash
+#: sfwd_lms.php:389
+msgid "Your Score:"
+msgstr "Il Tuo Punteggio:"
+
+# @ learndash
+#: sfwd_lms.php:390
+msgid "Your Ranking Text"
+msgstr "Testo La Tua Classifica"
+
+# @ learndash
+#: sfwd_lms.php:390
+msgid "Text displayed for your ranking prompt."
+msgstr "Testo mostrato per far apparire la tua classifica."
+
+# @ learndash
+#: sfwd_lms.php:390
+msgid "Your Ranking:"
+msgstr "La Tua Classifica:"
+
+# @ learndash
+#: sfwd_lms.php:391
+msgid "Disabled Quiz Message"
+msgstr "Messaggio Quiz Disattivato"
+
+# @ learndash
+#: sfwd_lms.php:391
+msgid "Message displayed for disabled quizzes."
+msgstr "Messaggio mostrato per i quiz disattivati."
+
+# @ learndash
+#: sfwd_lms.php:391
+msgid "Sorry. The requested quiz has been disabled."
+msgstr "Spiacent. Il quiz richiesto è stato disattivato."
+
+# @ learndash
+#: sfwd_lms.php:392
+msgid "Missing Quiz Message"
+msgstr "Messaggio Quiz Mancante"
+
+# @ learndash
+#: sfwd_lms.php:392
+msgid "Message displayed for missing quizzes."
+msgstr "Messaggio mostrato per i quiz mancanti."
+
+# @ learndash
+#: sfwd_lms.php:392
+msgid "Sorry The requested quiz could not be found."
+msgstr "Spiacenti. Il quiz richiesto non è stato trovato."
+
+# @ learndash
+#: sfwd_lms.php:393
+msgid "Knowledge Level 1"
+msgstr "Livello di Conoscenza 1"
+
+# @ learndash
+#: sfwd_lms.php:393
+msgid "Name for knowledge level 1 (from best to worst, 1 - 5)"
+msgstr ""
+"Nome per il tuo livello di conoscenza 1 (dal migliore al peggiore, 1-5)"
+
+# @ learndash
+#: sfwd_lms.php:394
+msgid "Knowledge Level 2"
+msgstr "Livello di Conoscenza 2"
+
+# @ learndash
+#: sfwd_lms.php:394
+msgid "Name for knowledge level 2 (from best to worst, 1 - 5)"
+msgstr ""
+"Nome per il tuo livello di conoscenza 2 (dal migliore al peggiore, 1-5)"
+
+# @ learndash
+#: sfwd_lms.php:394
+msgid "Expert"
+msgstr "Esperto"
+
+# @ learndash
+#: sfwd_lms.php:395
+msgid "Knowledge Level 3"
+msgstr "Livello di Conoscenza 3"
+
+# @ learndash
+#: sfwd_lms.php:395
+msgid "Name for knowledge level 3 (from best to worst, 1 - 5)"
+msgstr ""
+"Nome per il tuo livello di conoscenza 3 (dal migliore al peggiore, 1-5)"
+
+# @ learndash
+#: sfwd_lms.php:395
+msgid "Intermediate"
+msgstr "Intermedio"
+
+# @ learndash
+#: sfwd_lms.php:396
+msgid "Knowledge Level 4"
+msgstr "Livello di Conoscenza 4"
+
+# @ learndash
+#: sfwd_lms.php:396
+msgid "Name for knowledge level 4 (from best to worst, 1 - 5)"
+msgstr ""
+"Nome per il tuo livello di conoscenza 4 (dal migliore al peggiore, 1-5)"
+
+# @ learndash
+#: sfwd_lms.php:396
+msgid "Initiate"
+msgstr "Iniziato"
+
+# @ learndash
+#: sfwd_lms.php:397
+msgid "Knowledge Level 5"
+msgstr "Livello di Conoscenza 5"
+
+# @ learndash
+#: sfwd_lms.php:397
+msgid "Name for knowledge level 5 (from best to worst, 1 - 5)"
+msgstr ""
+"Nome per il tuo livello di conoscenza 5 (dal migliore al peggiore, 1-5)"
+
+# @ learndash
+#: sfwd_lms.php:397
+msgid "Beginner"
+msgstr "Principiante"
+
+# @ learndash
+#: sfwd_lms.php:398
+msgid "Select Certificate"
+msgstr "Scegli il Certificato"
+
+# @ learndash
+#: sfwd_lms.php:398
+msgid "Select a Post to use as a Certificate For Quizzes."
+msgstr "Scegli un Post da utilizzare come Certificato per i Quiz."
+
+# @ learndash
+#: sfwd_lms.php:399
+msgid "Correct Response Message"
+msgstr "Messaggio Risposta Corretta"
+
+# @ learndash
+#: sfwd_lms.php:399
+msgid "Message text for a correct quiz response."
+msgstr "Testo del messaggio per una risposta corretta al quiz."
+
+# @ learndash
+#: sfwd_lms.php:400
+msgid "Incorrect Response Message"
+msgstr "Messaggio Riposta Scorretta"
+
+# @ learndash
+#: sfwd_lms.php:400
+msgid "Message text for an incorrect quiz response."
+msgstr "Testo del messaggio per una risposta scorretta al quiz."
+
+# @ learndash
+#: sfwd_lms.php:401
+msgid "Random Sort Questions"
+msgstr "Domande in Ordine Casuale"
+
+# @ learndash
+#: sfwd_lms.php:401
+msgid "Random sort questions option."
+msgstr "Mostra le domande in ordine casuale."
+
+# @ learndash
+#: sfwd_lms.php:402
+msgid "Random Sort Answers"
+msgstr "Risposte in Ordine Casuale"
+
+# @ learndash
+#: sfwd_lms.php:402
+msgid "Random sort answers option."
+msgstr "Mostra le risposte in ordine casuale."
+
+# @ learndash
+#: sfwd_lms.php:403
+msgid "Random Sort"
+msgstr "Ordine Casuale"
+
+# @ learndash
+#: sfwd_lms.php:403
+msgid "Random sort option."
+msgstr "Opzione ordina casualmente."
+
+# @ learndash
+#: sfwd_lms.php:404
+msgid "Disable Next"
+msgstr "Disabilita il Successivo"
+
+# @ learndash
+#: sfwd_lms.php:404
+msgid "Disable the next option."
+msgstr "Opzione disabilita il successivo."
+
+# @ learndash
+#: sfwd_lms.php:405
+msgid "Disable Responses"
+msgstr "Disabilita Risposte"
+
+# @ learndash
+#: sfwd_lms.php:405
+msgid "Disable responses."
+msgstr "Disabilita le risposte."
+
+# @ learndash
+#: sfwd_lms.php:406
+msgid "Completion Responses"
+msgstr "Risposte di Completamento"
+
+# @ learndash
+#: sfwd_lms.php:406
+msgid "Enable completion responses."
+msgstr "Abilita le risposte di completamento."
+
+# @ learndash
+#: sfwd_lms.php:443
+msgid ""
+"<b>Shortcode Options</b><p>You may use shortcodes to customize the display "
+"of your certificates. Provided is a built-in shortcode for displaying user "
+"information.</p><p><b>[usermeta]</b><p>This shortcode takes a parameter "
+"named field, which is the name of the user meta data field to be displayed.</"
+"p><p>Example: <b>[usermeta field=\"display_name\"]</b> would display the "
+"user's Display Name.</p><p>See <a href=\"http://codex.wordpress.org/"
+"Function_Reference/get_userdata#Notes\">the full list of available fields "
+"here</a>.</p>"
+msgstr ""
+"<b>Opzioni di Shortcode</b><p>Puoi utilizzare gli shortcode per "
+"personalizzare l'aspetto dei tuoi certificati. Viene fornito uno shortcode "
+"integrato per mostrare le informazioni dell'utente.</p><p><b>[usermeta]</"
+"b><p>Questo shortcode usa un campo che prende nome dal parametro, che è il "
+"nome del campo meta data dell'utente da mostrare.</p><p>Esempio: <b>"
+"[usermeta field=\"display_name\"]</b> mostra il Nome Pubblico da "
+"Visualizzare dell'utente.</p><p>Vedi <a href=\"http://codex.wordpress.org/"
+"Function_Reference/get_userdata#Notes\">qui la lista completa di campi "
+"disponibili</a>.</p>"
+
+# @ learndash
+#: sfwd_lms.php:444
+msgid ""
+"This shortcode displays information regarding quiz attempts on the "
+"certificate. This short code can use the following parameters:"
+msgstr ""
+"Questo shortcode mostra sul certificato le informazioni riguardo ai "
+"tentativi di quiz. Questo shortcode può usare i seguenti parametri:"
+
+# @ learndash
+#: sfwd_lms.php:446
+msgid ""
+"This parameter determines the information to be shown by the shortcode. "
+"Possible values are: \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t<ol style=\"margin: 20px 50px\">\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>score</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>count</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>pass</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>rank</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>timestamp</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>points*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>total_points*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>percentage</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>timespent*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t</ol>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tValues marked with an asterisk (*) are only valid "
+"for the Advanced Quiz. <br>Example: <b>[quizinfo show=\"percentage\"]%</b> "
+"shows the percentage score of the user in the quiz."
+msgstr ""
+"Questo parametro detrmina le informazioni mostrate dallo shortcode. "
+"Possibili valori sono: \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t<ol style=\"margin: 20px 50px\">\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>score</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>count</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>pass</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>rank</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>timestamp</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>points*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>total_points*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>percentage</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>timespent*</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t</ol>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tValori contrassegnati con un asterisco (*) sono "
+"validi sonlo per il Quiz Avanzato. <br>Esempio: <b>[quizinfo show="
+"\"percentage\"]%</b> mostra il punteggio percentuale dell'utente nel quiz."
+
+# @ learndash
+#: sfwd_lms.php:459
+msgid ""
+"This can be used to change the timestamp format. Default: \"F j, Y, g:i a\" "
+"shows as <i>March 10, 2001, 5:16 pm</i>. <br>Example: <b>[quizinfo show="
+"\"timestamp\" format=\"Y-m-d H:i:s\"]</b> will show as <i>2001-03-10 "
+"17:16:18</i>"
+msgstr ""
+"Questo può essere usaato per cambiare il formato della marca temporale. "
+"Predefinito: \"F j, Y, g:i a\" mostra <i>Marzo 10, 2001, 5:16 pm</i>. "
+"<br>Esempio: <b>[quizinfo show=\"timestamp\" format=\"Y-m-d H:i:s\"]</b> "
+"apparirà come <i>2001-03-10 17:16:18</i>"
+
+# @ learndash
+#: sfwd_lms.php:461
+msgid ""
+"See <a target=\"_blank\" href=\"http://php.net/manual/en/function.date.php"
+"\">the full list of available date formating strings  here.</a>"
+msgstr ""
+"Vedi <a target=\"_blank\" href=\"http://php.net/manual/en/function.date.php"
+"\">qui la lista completa delle stringhe di formattazione della data.</a>"
+
+# @ learndash
+#: sfwd_lms.php:469
+msgid "Certificates"
+msgstr "Certificati"
+
+# @ learndash
+#: sfwd_lms.php:481
+msgid "Transactions"
+msgstr "Transazioni"
+
+# @ learndash
+#: sfwd_lms.php:487
+msgid "Click the Export button below to export the transaction list."
+msgstr ""
+"Clicca il pulsante Esporta qui sotto esportare l'elenco delle transazioni."
+
+# @ learndash
+#: sfwd_lms.php:511
+msgid "Course Info"
+msgstr "Informazioni sul Corso"
+
+# @ learndash
+#: sfwd_lms.php:519
+msgid "You are registered for the following courses"
+msgstr "Sei iscritto ai seguenti corsi"
+
+# @ learndash
+#: sfwd_lms.php:530
+msgid "Course progress details:"
+msgstr "Dettagli del progresso nei corsi:"
+
+# @ learndash
+#: sfwd_lms.php:534
+msgid "out of"
+msgstr "di"
+
+# @ learndash
+#: sfwd_lms.php:534
+msgid "steps"
+msgstr "passi"
+
+# @ learndash
+#: sfwd_lms.php:541
+msgid "<h4>You have taken the following quizzes</h4>"
+msgstr "<h4>Hai fatto i seguenti quiz</h4>"
+
+# @ learndash
+#: sfwd_lms.php:557
+msgid "Print Certificate"
+msgstr "Stampa Certificato"
+
+# @ learndash
+#: sfwd_lms.php:562
+msgid "Rank: "
+msgstr "Classifica:"
+
+# @ learndash
+#: sfwd_lms.php:564
+msgid "Score "
+msgstr "Punteggio"
+
+# @ learndash
+#: sfwd_lms.php:564
+msgid " out of "
+msgstr "su"
+
+# @ learndash
+#: sfwd_lms.php:564
+msgid " question(s)"
+msgstr "domanda(e)"
+
+# @ learndash
+#: sfwd_lms.php:566
+msgid " . Points: "
+msgstr " . Punti: "
+
+# @ learndash
+#: sfwd_lms.php:567
+msgid " on "
+msgstr "su"
+
+# @ learndash
+#: sfwd_lms.php:602 sfwd_lms.php:670 sfwd_lms.php:731
+#: sfwd_module_class.php:686
+msgid ""
+"Security Check - If you receive this in error, log out and back in to "
+"WordPress"
+msgstr ""
+"Controllo di Sicurezza - Se ricevi quisto per errore, esci e registrati "
+"nuovamente in WordPress"
+
+# @ learndash
+#: sfwd_lms.php:641 sfwd_lms.php:644 sfwd_lms.php:705 sfwd_lms.php:709
+msgid "No attempts"
+msgstr "Nessun Tentativo"
+
+# @ learndash
+#: sfwd_lms.php:654
+msgid "Export User Course Data &raquo;"
+msgstr "Esporta le Informazioni sui Corsi dell'Utente &raquo;"
+
+# @ learndash
+#: sfwd_lms.php:721
+msgid "Export Quiz Data &raquo;"
+msgstr "Esporta le Informazioni sui Quiz &raquo;"
+
+# @ learndash
+#: sfwd_lms.php:759
+msgid "Export &raquo;"
+msgstr "Esporta &raquo;"
+
+# @ learndash
+#: sfwd_lms.php:784 sfwd_lms.php:801
+msgid "-- Select a Certificate --"
+msgstr "-- Scegli un Certificato --"
+
+# @ learndash
+#: sfwd_lms.php:793
+msgid "-- Select a Lesson --"
+msgstr "-- Scegli una Lezione ­--"
+
+# @ learndash
+#: sfwd_lms.php:824
+msgid "-- Select a Course --"
+msgstr "-- Scegli un Corso --"
+
+# @ learndash
+#: sfwd_lms.php:884
+msgid "Options for "
+msgstr "Opzioni per"
+
+# @ learndash
+#: sfwd_lms.php:900
+msgid "select"
+msgstr "scegli"
+
+# @ learndash
+#: sfwd_lms.php:1015
+msgid "Course Status:"
+msgstr "Stato del Corso:"
+
+# @ learndash
+#: sfwd_lms.php:1036
+msgid "Complete Your Purchase"
+msgstr "Completa il tuo Acquisto"
+
+# @ learndash
+#: sfwd_lms.php:1046
+msgid ""
+"The buyer PayPal email is empty; please configure this in the plugin or use "
+"alternative payment gateway."
+msgstr ""
+"L'email del compratore PayPal è vuota; per favore configurala nel plugin o "
+"usa un gatewya di pagamento alternativo."
+
+# @ learndash
+#: sfwd_lms.php:1054
+msgid "Join"
+msgstr "Iscriviti"
+
+# @ learndash
+#: sfwd_lms.php:1104
+msgid "Please go back and complete the previous lesson.<br>"
+msgstr "Per favore torna indietro e completa la lezione precedente.<br>"
+
+# @ learndash
+#: sfwd_lms.php:1119
+#, php-format
+msgid "You have already taken this quiz %d times and may not take it again."
+msgstr "Hai già fatto questo quiz %d volte e non puoi ripeterlo."
+
+# @ learndash
+#: sfwd_lms.php:1146
+msgid "Please go back and complete the previous lesson."
+msgstr "Per favore torna indietro e completa la lezione precedente."
+
+# @ learndash
+#: sfwd_lms.php:1184
+#, php-format
+msgid "To take this %s, you need to complete the following course first:%s"
+msgstr "Per fare questo %s, devi prima completare il seguente corso:%s"
+
+# @ learndash
+#: sfwd_lms.php:1247
+msgid "Access to certificate page is disallowed."
+msgstr "L'accesso alla pagina del certificato non è consentito."
+
+# @ learndash
+#: sfwd_lms.php:1374 sfwd_lms.php:1386 sfwd_lms.php:1412
+msgid "Something went wrong, please try again."
+msgstr "Qualcosa è andato storto, per favore riprova."
+
+# @ learndash
+#: sfwd_lms.php:1410
+msgid "Quiz data was saved!"
+msgstr "Le informazioni sul quiz sono stte salvate!"
+
+# @ learndash
+#: sfwd_lms.php:1796
+msgid "Previous Lesson"
+msgstr "Lezione Precedente"
+
+# @ learndash
+#: sfwd_lms.php:1829
+msgid "Next Lesson"
+msgstr "Lezione Successiva"
+
+# @ learndash
+#: sfwd_lms.php:2198 sfwd_lms.php:2205
+msgid "Click Here to Continue "
+msgstr "Clicca Qui per Continuare"
+
+# @ learndash
+#: sfwd_lms.php:2269
+msgid "Are you sure you want to delete progress and quiz data for "
+msgstr ""
+"Sei sicuro di voler cancellare il progresso e le informazioni sui quiz per"
+
+# @ learndash
+#: sfwd_lms.php:2275
+msgid "Permanently Delete Course Data"
+msgstr "Cancella Permanentemente le Informazioni sul Corso"
+
+# @ learndash
+#: sfwd_lms.php:2276
+msgid ""
+"Select a user and click the button below to permanently delete their "
+"LearnDash course data. <b>This cannot be undone.</b>"
+msgstr ""
+"Scedgli un utente e fai clic sul pulsante seguente per cancellare "
+"permanentemente le loro informazioni sul corso LearnDash. <b>Questa azione è "
+"irreversibile.</b>"
+
+# @ learndash
+#: sfwd_lms.php:2284
+msgid "Delete Course Data"
+msgstr "Cancella le Informazioni sul Corso"
+
+# @ learndash
+#: sfwd_lms.php:2288
+msgid "Course data successfully deleted."
+msgstr "Informazioni sul corso cancellate con successo."
+
+# @ learndash
+#: sfwd_lms.php:2370
+msgid "Return to Course Overview"
+msgstr "Ritorna all'Anteprima del Corso"
+
+# @ learndash
+#: sfwd_module_class.php:528
+msgid "Upload Image"
+msgstr "Carica Immagine"
+
+# @ learndash
+#: sfwd_module_class.php:539
+#, php-format
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr ""
+" caratteri. La maggior parte dei motori di ricerca utilizza un massimo di %s "
+"caratteri per il %s."
+
+# @ learndash
+#: sfwd_module_class.php:562
+msgid "Click for Help!"
+msgstr "Clicca per Aiuto!"
+
+# @ learndash
+#: sfwd_module_class.php:688
+msgid "Options Reset."
+msgstr "Opzioni Resettate."
+
+# @ learndash
+#: sfwd_module_class.php:697
+msgid "Options Updated."
+msgstr "Opzioni Aggiornate."
+
+# @ learndash
+#: sfwd_module_class.php:748
+msgid "Update Options"
+msgstr "Aggiorna Opzioni"
+
+# @ learndash
+#: sfwd_module_class.php:749
+#, php-format
+msgid "Reset %s Settings to Defaults"
+msgstr "Resetta le Impostazioni %s ai Valori Predefiniti"
+
+# @ learndash
+#: tcpdf/config/tcpdf_config.php:41
+msgid "You are not allowed to access this file."
+msgstr "Non ti è permesso accedere a questo file."
+
+# @ learndash
+#: tcpdf/tcpdf.php:7845 tcpdf/tcpdf.php:18977 tcpdf/tcpdf.php:27267
+msgctxt ""
+msgid "L"
+msgstr "L [  ]"
+
+# @ learndash
+#: tcpdf/tcpdf.php:19429 tcpdf/tcpdf.php:19747
+msgctxt ""
+msgid "positionL"
+msgstr "positionL [  ]"
+
+# @ learndash
+#: tcpdf/tcpdf.php:19441
+msgctxt ""
+msgid "align"
+msgstr "align [  ]"
+
+# @ learndash
+#: tcpdf/tcpdf.php:19758
+msgctxt ""
+msgid "hpadding"
+msgstr "hpadding [  ]"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:96
+msgid "Do you really want to delete the quiz/question?"
+msgstr "Vuoi davvero cancellare il quiz/domanda?"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:97
+msgid "Title is not filled!"
+msgstr "Il titolo non è compilato!"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:98
+msgid "No question deposited!"
+msgstr "Nessuna domanda depositata!"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:99
+msgid "Correct answer was not selected!"
+msgstr "Le risposta corretta non è stata selezionata!"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:100
+msgid "No answer deposited!"
+msgstr "Nessuna risposta depositata!"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:101
+msgid "No quiz description filled!"
+msgstr "Nessuna descrizione del quiz compilata!"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:102
+msgid "The percent values in result text are incorrect."
+msgstr "I valori percentuali nel testo risultato sono scorretti."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:103
+msgid "No number in the field \"Points\" or less than 1"
+msgstr "Nessun numero nel campo \"Points\" o minore di 1"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:104
+msgid "No number in the field \"Points\" or less than 0"
+msgstr "Nessun numero nel campo \"Points\" o minore di 0"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:105
+msgid "No quiz selected"
+msgstr "Nessun quiz selezionato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:106
+msgid "Do you really want to reset the statistic?"
+msgstr "Vuoi davvero resettare le statistiche?"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:107
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:26
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:67
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:109
+msgid "No data available"
+msgstr "Nessun dato disponibile"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:108
+msgid "No sort element in the criterion"
+msgstr "Nessun elemento di ordinamento nel criterio"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:109
+msgid ""
+"\"Different points for every answer\" is not possible at \"Free\" choice"
+msgstr ""
+"\"Punti differenti per ogni risposta\" non è possibile nella scelta \"Libera"
+"\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:110
+msgid "You must specify a name."
+msgstr "Devi specificare un nome."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Front.php:44
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Preview.php:15
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:47
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:445
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:93
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:40
+msgid "Loading"
+msgstr "In caricamento"
+
+# @ default
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_GlobalSettings.php:11
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_ImportExport.php:23
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_ImportExport.php:43
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:51
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:128
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:143
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:200
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:348
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:175
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:189
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:249
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:297
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Statistics.php:32
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:76
+#: wp_autoupdate.php:204
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai permessi sufficienti per accedere a questa pagina."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_GlobalSettings.php:20
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_ImportExport.php:79
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:59
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:68
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:75
+msgid "File cannot be processed"
+msgstr "Il file non può essere elaborato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:9
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:19
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:201
+msgid "Quiz not found"
+msgstr "Quiz non trovato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:65
+msgid "questions copied"
+msgstr "domande copiate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:147
+msgid "Edit question"
+msgstr "Modifica domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:156
+msgid "Question not found"
+msgstr "Domanda non trovata"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:173
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:227
+#, php-format
+msgid "Question: %d"
+msgstr "Domanda: %d"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:183
+msgid "Question edited"
+msgstr "Domanda modificata"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:204
+msgid "New question"
+msgstr "Nuova domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Question.php:238
+msgid "Question added"
+msgstr "Domanda aggiunta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:196
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:21
+msgid "Edit quiz"
+msgstr "Modifica quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:216
+msgid "Quiz edited"
+msgstr "Quiz modificato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:233
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:281
+msgid "Quiz title or quiz description are not filled"
+msgstr "Il titolo o la descrizione del quiz non sono stati inseriti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:253
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:267
+msgid "Create quiz"
+msgstr "Crea quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Quiz.php:314
+msgid "Quiz deleted"
+msgstr "Quiz cancellato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Statistics.php:44
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:73
+msgid "No category"
+msgstr "Nessuna categoria"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:136
+msgid "You signing up successfully."
+msgstr "Registrazione avvenuta con successo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:144
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:148
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:165
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:169
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:175
+msgid "An error has occurred."
+msgstr "È avvenuto un errore."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:186
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:195
+msgid "You can not enter again."
+msgstr "Non puoi entrare di nuovo."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:199
+msgid "No name or e-mail entered."
+msgstr "Nessun nome o e-mail inseriti."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:203
+msgid "Your name can not exceed 15 characters."
+msgstr "Il tuo nome non può supeare i 15 caratteri."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/controller/WpProQuiz_Controller_Toplist.php:211
+msgid "You entered wrong captcha code."
+msgstr "Hai inserito un codice captcha errato."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:9
+msgid "File was not uploaded"
+msgstr "Il fali non è stato caricato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:40
+msgid "File have wrong format"
+msgstr "Il file ha il formato sbagliato"
+
+# @ default
+#: wp-pro-quiz/lib/helper/WpProQuiz_Helper_Import.php:45
+msgid "File is not compatible with the current version"
+msgstr "Il file non è compatibile con la versione corrente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/model/WpProQuiz_Model_GlobalSettingsMapper.php:47
+msgid "One user completed a quiz"
+msgstr "Un utente ha completato un quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/model/WpProQuiz_Model_GlobalSettingsMapper.php:48
+msgid ""
+"\n"
+"\n"
+"The user \"$username\" has completed \"$quizname\" the quiz.\n"
+"\n"
+"Points: $points\n"
+"Result: $result\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"L'utente \"$username\" ha completato \"$quizname\" il quiz.\n"
+"\n"
+"Punti: $points\n"
+"Risultato: $result\n"
+"\n"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/plugin/WpProQuiz_Plugin_BpAchievementsV2.php:33
+msgid "The user completed a quiz."
+msgstr "L'utente ha completato un quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:7
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:8
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:626
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:638
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:94
+msgid "Leaderboard"
+msgstr "Classifica dei Migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:8
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:21
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:22
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:18
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:19
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:14
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:24
+#: wp-pro-quiz/lib/view/WpProQuiz_View_StyleManager.php:11
+msgid "back to overview"
+msgstr "torna all'anteprima"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:11
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:158
+msgid "Filter"
+msgstr "Filtra"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:16
+msgid "Sort by:"
+msgstr "Ordina per:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:18
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:718
+msgid "best user"
+msgstr "utente migliore"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:19
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:722
+msgid "newest entry"
+msgstr "ingresso più recente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:20
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:726
+msgid "oldest entry"
+msgstr "ingresso più vecchio"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:26
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:169
+msgid "How many entries should be shown on one page:"
+msgstr "Quante voci devono essere mostrate in una pagina:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:38
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:57
+msgid "Type"
+msgstr "Tipo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:38
+msgid "UR = unregistered user, R = registered user"
+msgstr "UR = utente non registrato, R = utente registrato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:55
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:188
+msgid "User"
+msgstr "Utente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:56
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:453
+msgid "E-Mail"
+msgstr "E-Mail"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:58
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:16
+msgid "Entered on"
+msgstr "Inserito il"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:59
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:325
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:343
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:17
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:31
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:38
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:263
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:300
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:358
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:29
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:64
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:189
+msgid "Points"
+msgstr "Punti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:60
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:116
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:69
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:193
+msgid "Results"
+msgstr "Risultati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:80
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:217
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:54
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:82
+msgid "Delete"
+msgstr "Cancella"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:82
+msgid "Apply"
+msgstr "Applica"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:83
+msgid "Delete all entries"
+msgstr "Cancella tutte le voci"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:45
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:138
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:143
+msgid "Time limit"
+msgstr "Limite temporale"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:61
+msgid "Answered"
+msgstr "Risposto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:65
+msgid "Review"
+msgstr "Revisione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:72
+msgid "Review question"
+msgstr "Rivedi domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:74
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:81
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:397
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:474
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:484
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:489
+msgid "Quiz-summary"
+msgstr "Riassunto del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:83
+#, php-format
+msgid "%s of %s questions completed"
+msgstr "%s di %s domande completate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:85
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:44
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:73
+msgid "Questions"
+msgstr "Domande"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:94
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:399
+msgid "Finish quiz"
+msgstr "Finisci il quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:101
+msgid "Start quiz"
+msgstr "Inizia il quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:106
+msgid ""
+"You have already completed the quiz before. Hence you can not start it again."
+msgstr ""
+"Hai già completato prima il quiz. Pertanto non puoi iniziarlo nuovamente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:111
+msgid "You have to finish following quiz, to start this quiz:"
+msgstr "Devi finire il quiz seguente, per iniziare questo questo quiz:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:118
+#, php-format
+msgid "%s of %s questions answered correctly"
+msgstr "%s di %s domande risposte correttamente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:121
+msgid "Your time: <span></span>"
+msgstr "Il tuo tempo: <span></span>"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:124
+msgid "Time has elapsed"
+msgstr "Tempo scaduto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:127
+#, php-format
+msgid "You have reached %s of %s points, (%s)"
+msgstr "Hai ottenuto  %s di %s punti, (%s)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:137
+msgid "Average score"
+msgstr "Punteggio medio"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:144
+msgid "Your score"
+msgstr "Il tuo punteggio"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:179
+msgid "Restart quiz"
+msgstr "Ricomincia il quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:181
+msgid "View questions"
+msgstr "Vedi le domande"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:184
+msgid "Show leaderboard"
+msgstr "Mostra la classifica dei migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:215
+#, php-format
+msgid "Question %s of %s"
+msgstr "Domanda %s di %s"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:218
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:92
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:63
+msgid "Question"
+msgstr "Domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:222
+#, php-format
+msgid "%d points"
+msgstr "%d punti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:232
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:292
+msgid "Sort elements"
+msgstr "Ordina elementi"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:323
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:330
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:251
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:65
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:190
+msgid "Correct"
+msgstr "Corretto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:341
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:348
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:66
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:191
+msgid "Incorrect"
+msgstr "Sbagliato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:369
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:380
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:136
+msgid "Hint"
+msgstr "Suggerimento"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:376
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:503
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:508
+msgid "Skip question"
+msgstr "Salta domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:382
+msgid "Check"
+msgstr "Controlla"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:383
+msgid "Next"
+msgstr "Prossima"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:443
+msgid "Your result entered into leaderboard"
+msgstr "Il tuo risultato è entrato nella classifica dei migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontQuiz.php:458
+msgid "Captcha"
+msgstr "Captcha"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:11
+#, php-format
+msgid "maximum of %s points"
+msgstr "massimo di %s punti."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:14
+msgid "Pos."
+msgstr "Pos."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:18
+msgid "Result"
+msgstr "Risultato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:23
+msgid "Table is loading"
+msgstr "La tabella si sta caricando"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:7
+msgid "to activate"
+msgstr "attivare"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:9
+msgid "not to activate"
+msgstr "non attivare"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:14
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:24
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:156
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:48
+msgid "Global settings"
+msgstr "Impsotazioni globali"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:16
+msgid "Please note"
+msgstr "Per favore nota"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:18
+msgid ""
+"These settings should only be set in cases of problems with LD-Adv-Quiz."
+msgstr ""
+"Queste impostazioni dovrebbero essere impostate solo in caso di problemi con "
+"LD-Adv-Quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:25
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:37
+msgid "Settings in case of problems"
+msgstr "Impostazioni in caso di problemi"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:43
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:48
+msgid "Automatically add [raw] shortcode"
+msgstr "Aggiungere automaticamente shortcode [raw]"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:52
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:74
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:126
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:39
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:58
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:77
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:96
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:115
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:131
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:165
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:190
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:230
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:288
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:338
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:373
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:398
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:459
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:568
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:569
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:570
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:571
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:643
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:676
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:690
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:738
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:814
+msgid "Activate"
+msgstr "Attiva"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:52
+#, php-format
+msgid "It is recommended %s this option on your system."
+msgstr "È raccomandato %s questa opzione nel tuo sistema."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:55
+msgid ""
+"If this option is activated, a [raw] shortcode is automatically set around "
+"LDAdvQuiz shortcode ( [LDAdvQuiz X] ) into [raw] [LDAdvQuiz X] [/raw]"
+msgstr ""
+"Se questa opzione è attivata, uno shortcode [raw] viene automaticamente "
+"impostato attorno allo shortcode LDAdvQuiz shortcode ( [LDAdvQuiz X] ) "
+"diventano [raw] [LDAdvQuiz X] [/raw]"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:58
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:42
+msgid ""
+"Own themes changes internal  order of filters, what causes the problems. "
+"With additional shortcode [raw] this is prevented."
+msgstr ""
+"Temi personali cambiano l'ordine interno dei filtri, e ciò causa i problemi, "
+"con uno shortcode addizionale [raw] questo viene prevenuto."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:65
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:70
+msgid "Do not load the Javascript-files in the footer"
+msgstr "Non caricare i file Javascript nel footer"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:77
+msgid ""
+"Generally all LDAdvQuiz-Javascript files are loaded in the footer and only "
+"when they are really needed."
+msgstr ""
+"Generalmente tutti i file LDAdvQuiz-Javascript vengono caricati nel footer e "
+"solo quando sono davvero necessari."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:80
+msgid "In very old Wordpress themes this can lead to problems."
+msgstr "In temi Wordpress molto vecchi questo può portare a problemi."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:83
+msgid ""
+"If you activate this option, all LDAdvQuiz-Javascript files are loaded in "
+"the header even if they are not needed."
+msgstr ""
+"Se attivi questa opzione, tutti i file LDAdvQuiz-Javascript saranno caricati "
+"nell'header anche se non sono necessari."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:86
+#, php-format
+msgid ""
+"Anyone who wants to learn more about this topic should read through the "
+"following websites %s and %s."
+msgstr ""
+"Chiunque voglia saperne di più su questo argomento dovrebbe leggere i "
+"seguenti siti %s e %s."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:95
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:100
+msgid "Touch Library"
+msgstr "Touch Library"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:104
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:313
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:493
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:512
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:531
+msgid "Deactivate"
+msgstr "Disattiva"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:107
+msgid "In Version 0.13 a new Touch Library was added for mobile devices."
+msgstr ""
+"Nella Versione 0.13 è stata aggiunta una nuova Touch Library per i "
+"dispositivi mobile."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:110
+msgid "If you have any problems with the Touch Library, please deactivate it."
+msgstr "Se hai qualche problema con la Touch Library, disattivala."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:117
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:122
+msgid "jQuery support cors"
+msgstr "jQuery support cors"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:129
+msgid "Is required only in rare cases."
+msgstr "È richiesto solo in casi rari."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:132
+msgid "If you have problems with the front ajax, please activate it."
+msgstr "Se hai problemi con l'ajax front-end, attivalo."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:135
+msgid "e.g. Domain with special characters in combination with IE"
+msgstr "e.s. Dominio con caratteri speciali in combinazione con IE"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:144
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:225
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:908
+msgid "Save"
+msgstr "Salva"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:162
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:167
+msgid "Leaderboard time format"
+msgstr "Formato temporale della Classifica dei Migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:189
+msgid "Custom"
+msgstr "Personalizzato"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:193
+msgid "Documentation on date and time formatting"
+msgstr "Documentazione sulla formattazione di data e ora"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:200
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:205
+msgid "Category management"
+msgstr "Gestione delle Categorie"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:233
+msgid "E-mail settings"
+msgstr "Impostazioni E-Mail"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:239
+msgid "To:"
+msgstr "A:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:246
+msgid ""
+"Separate multiple email addresses with a comma, e.g. wp@test.com, test@test."
+"com"
+msgstr ""
+"Separa indirizzi email multipli con una virgola, ad esempio wp@test.com, "
+"test@test.com"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:252
+msgid "From:"
+msgstr "Da:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:265
+msgid "Subject:"
+msgstr "Oggetto:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:275
+msgid "Message body:"
+msgstr "Corpo del Messaggio:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:283
+msgid "Allowed variables"
+msgstr "Variabili consentite"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:285
+msgid "User-ID"
+msgstr "User-ID"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:287
+msgid "Quiz-Name"
+msgstr "Nome del Quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:288
+msgid "Result in precent"
+msgstr "RIsultato nel precedente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:289
+msgid "Reached points"
+msgstr "Punti ottenuti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:290
+msgid "IP-address of the user"
+msgstr "Indirizzo IP dell'utente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:21
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:118
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:136
+msgid "Import"
+msgstr "Importa"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:25
+msgid "Error"
+msgstr "Errore"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:32
+msgid "Successfully"
+msgstr "Successo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:34
+msgid "Import completed successfully"
+msgstr "Importazione completata con successo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:43
+msgid "Quiz name"
+msgstr "Nome del Quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Import.php:67
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:147
+msgid "Start import"
+msgstr "Inizia importazione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:22
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:62
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:107
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:124
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:136
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:626
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:802
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:840
+msgid "(optional)"
+msgstr "(opzionale)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:25
+msgid ""
+"The title is used for overview, it is not visible in quiz. If you leave the "
+"title field empty, a title will be generated."
+msgstr ""
+"Il titolo è utilizzato per l'anteprima, non è visibile nel quiz. Se lasci "
+"vuoto il campo del titolo, un titolo sarà generato."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:31
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:92
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:188
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:18
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:555
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:829
+msgid "(required)"
+msgstr "(richiesto)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:35
+msgid "Points for this question (Standard is 1 point)"
+msgstr "Punti per questa domanda (Standard è 1 punto)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:41
+msgid ""
+"This points will be rewarded, only if the user closes the question correctly."
+msgstr ""
+"Questi punti saranno conferiti, solo se l'utente risponde alla domanda "
+"correttamente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:47
+msgid "Different points for each answer"
+msgstr "Punti differenti per ogni risposta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:50
+msgid ""
+"If you enable this option, you can enter different points for every answer."
+msgstr ""
+"Se attivi questa opzione, puoi inserire punti differenti per ogni domanda."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:56
+msgid "Show reached points in the correct- and incorrect message?"
+msgstr "Mostra punti ottenuti nel messaggio corretto e scorretto?"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:62
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:82
+msgid "Category"
+msgstr "Categoria"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:65
+msgid ""
+"You can assign classify category for a question. Categories are e.g. visible "
+"in statistics function."
+msgstr ""
+"Puoi assegnare categorie di classificazione per una domanda. Le categorie "
+"sono ad esempio visibili nella funzione statistiche."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:68
+msgid "You can manage categories in global settings."
+msgstr "Puoi gestire le categorie nelle impostazioni globali."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:72
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:82
+msgid "Create new category"
+msgstr "Crea nuova categoria"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:84
+msgid "Create"
+msgstr "Crea"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:100
+msgid "Message with the correct / incorrect answer"
+msgstr "Messaggio con la risposta corretta / scorretta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:102
+msgid "Deactivated in quiz settings."
+msgstr "Disattivato nelle impostazioni dei quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:107
+msgid "Message with the correct answer"
+msgstr "Messaggio con la risposta corretta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:110
+msgid ""
+"This text will be visible if answered correctly. It can be used as "
+"explanation for complex questions. The message \"Right\" or \"Wrong\" is "
+"always displayed automatically."
+msgstr ""
+"Questo testo sarà visibile se risposta correttamente. Può essere utilizzato "
+"come spiegazione per domande complesse. Il messggio \"Giusto\" or \"Sbagliato"
+"\" è sempre mostrato automaticamente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:114
+msgid "Same text for correct- and incorrect-message?"
+msgstr "Stesso testo per messaggio corretto e scorretto?"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:124
+msgid "Message with the incorrect answer"
+msgstr "Messaggio con la rispsota sbagliata"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:127
+msgid ""
+"This text will be visible if answered incorrectly. It can be used as "
+"explanation for complex questions. The message \"Right\" or \"Wrong\" is "
+"always displayed automatically."
+msgstr ""
+"Questo testo sarò visibile se risposta scorrettamente. Può essere utilizzato "
+"come spiegazione per domande complesse. Il messggio \"Giusto\" or \"Sbagliato"
+"\" è sempre mostrato automaticamente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:139
+msgid "Here you can enter solution hint."
+msgstr "Qui puoi inserire un suggerimento alla soluzione."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:143
+msgid "Activate hint for this question?"
+msgstr "Attiva il suggerimento per questa domanda?"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:155
+msgid "Answer type"
+msgstr "Tipo di risposta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:163
+msgid "Single choice"
+msgstr "Scelta singola"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:167
+msgid "Multiple choice"
+msgstr "Scelta multipla"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:171
+msgid "\"Free\" choice"
+msgstr "Scelta \"Libera\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:175
+msgid "\"Sorting\" choice"
+msgstr "Scelta \"Ordinata\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:179
+msgid "\"Matrix Sorting\" choice"
+msgstr "Scelta \"Matrice Ordinata\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:183
+msgid "Cloze"
+msgstr "Risposta Annidata"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:188
+msgid "Answers"
+msgstr "Risposte"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:195
+msgid ""
+"Please sort the answers in right order with the \"Move\" - Button. The "
+"answers will be displayed randomly."
+msgstr ""
+"Per favore, disponi le domande nell'ordine giusto con il pulsante \"Muovi\". "
+"Le risposte saranno mostrate in ordine casuale."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:200
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:206
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:218
+msgid "Add new answer"
+msgstr "Aggiungi nuova risposta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:210
+msgid ""
+"In this mode, not a list have to be sorted, but elements must be assigned to "
+"matching criterion."
+msgstr ""
+"In questa modalità, nessun elenco devo essere ordinato, ma gli elementi "
+"devono essere accoppiati ad un criterio corrispondente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:213
+msgid ""
+"You can create sort elements with empty criteria, which can't be assigned by "
+"user."
+msgstr ""
+"Puoi creare elementi con un criterio vuoti, che non non può essere assegnato "
+"dall'utente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:241
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:290
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:342
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:24
+msgid "Options"
+msgstr "Opzioni"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:242
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:343
+msgid "Answer"
+msgstr "Risposte"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:257
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:315
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:321
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:352
+msgid "Allow HTML"
+msgstr "Permetti HTML"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:274
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:328
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:369
+msgid "Delete answer"
+msgstr "Cancella risposta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:275
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:329
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:370
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:58
+msgid "Move"
+msgstr "Muovi"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:291
+msgid "Criterion"
+msgstr "Criterio"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:381
+msgid ""
+"correct answers (one per line) (answers will be converted to lower case)"
+msgstr ""
+"risposte corrette (una per riga) (le risposte saranno convertite in "
+"minuscolo)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:394
+msgid ""
+"Enclose the searched words with { } e.g. \"I {play} soccer\". Capital and "
+"small letters will be ignored."
+msgstr ""
+"Racchiudi le parole cercate tra { } Esempio: \"Voglio {giocare} a calcio\". "
+"Le lettere maiuscole e minuscole verranno ignorate."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:397
+msgid ""
+"You can specify multiple options for a search word. Enclose the word with "
+"[ ] e.g. <span style=\"font-style: normal; letter-spacing: 2px;\"> \"I "
+"{[play][love][hate]} soccer\" </span>. In this case answers play, love OR "
+"hate are correct."
+msgstr ""
+"Puoi specificare opzioni multiple per una parola di ricerca. Racchiudi la "
+"parola tra [ ] Esempio: <span style=\"font-style: normal; letter-spacing: "
+"2px;\"> \"Io {[gioco][amo][odio]} il calcio\" </span>. In questo caso le "
+"risposte gioco, amo O odio sono corrette."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:400
+msgid ""
+"If mode \"Different points for every answer\" is activated, you can assign "
+"points with |POINTS. Otherwise 1 point will be awarded for every answer."
+msgstr ""
+"Se la modalità \"Punti differenti per ogni risposta\" è attivata, puoi "
+"assegnare i punti con |PUNTI. Altrimenti 1 punto verrà assegnato per ogni "
+"risposta."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:403
+msgid ""
+"e.g. \"I {play} soccer, with a {ball|3}\" - \"play\" gives 1 point and \"ball"
+"\" 3 points."
+msgstr ""
+"Esempio: \"Io {gioco a} calcio, con una {palla|3}\" - \"gioco\" conferisce 1 "
+"punto e \"palla\" 3 punti."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:17
+msgid "Questions sorted"
+msgstr "Domande ordinate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:74
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:125
+msgid "Total"
+msgstr "Totale"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:81
+msgid "Add question"
+msgstr "Aggiungi domanda"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:82
+msgid "Save order"
+msgstr "Salva ordine"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:83
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:88
+msgid "Copy questions from another Quiz"
+msgstr "Copia domande da un altro Quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:89
+msgid ""
+"Here you can copy questions from another quiz into this quiz. (Multiple "
+"selection enabled)"
+msgstr ""
+"Qui puoi copiare domande da un altro quiz a questo quiz. (Selezione multipla "
+"possibile)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuestionOverall.php:101
+msgid "Copy questions"
+msgstr "Copia domande"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:18
+msgid "Quiz title"
+msgstr "Titolo del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:30
+msgid "Hide quiz title"
+msgstr "Nascondi il titolo del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:35
+msgid "Hide title"
+msgstr "Nascondi il titolo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:42
+msgid "The title serves as quiz heading."
+msgstr "Il titolo serve da intestazione del quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:49
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:54
+msgid "Hide \"Restart quiz\" button"
+msgstr "Nascondi il pulsante \"Ricomincia quiz\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:61
+msgid "Hide the \"Restart quiz\" button in the Frontend."
+msgstr "Nascondi il pulsante \"Ricomincia quiz\" nel Frontend."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:68
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:73
+msgid "Hide \"View question\" button"
+msgstr "Nascondi il pulsante \"Mostra domanda\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:80
+msgid "Hide the \"View question\" button in the Frontend."
+msgstr "Nascondi il pulsante \"Mostra domanda\" nel frontend"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:87
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:92
+msgid "Show points"
+msgstr "Mostra punti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:99
+msgid "Shows in quiz, how many points are reachable for respective question."
+msgstr ""
+"Mostra nel quiz quanti punti sono raggiungibili per la rispettiva domanda."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:106
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:111
+msgid "Display question randomly"
+msgstr "Mostra le domande casualmente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:122
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:127
+msgid "Display answers randomly"
+msgstr "Mostra le rispsote casualmente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:146
+msgid "Seconds"
+msgstr "Secondo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:149
+msgid "0 = no limit"
+msgstr "0 = nessun limite"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:156
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:161
+msgid "Number answers"
+msgstr "Numera le risposte"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:168
+msgid ""
+"If this option is activated, all answers are numbered (only single and "
+"multiple choice)"
+msgstr ""
+"Se questa opzione è attivata, tutte le risposte sono numerate (solo risposta "
+"singola e multipla)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:171
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:294
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:319
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:379
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:468
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:474
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:590
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:598
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:606
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:614
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:779
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:789
+msgid "Demo"
+msgstr "Demo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:181
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:186
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:90
+msgid "Statistics"
+msgstr "Statistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:193
+msgid ""
+"Statistics about right or wrong answers. Statistics will be saved by "
+"completed quiz, not after every question. The statistics is only visible "
+"over administration menu. (internal statistics)"
+msgstr ""
+"Statitistiche riguardo alle riposte giuste o sbagliate. Le statistiche "
+"saranno salvate al completamento del quiz, non dopo ogni domanda. Le "
+"statistiche sono visibili solo dal menù amministrativo. (Statitistiche "
+"interne)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:200
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:205
+msgid "Statistics IP-lock"
+msgstr "Blocco IP delle Statitistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:209
+msgid "in minutes (recommended 1440 minutes = 1 day)"
+msgstr "in minuti (raccomandato 1440 minuti = 1 giorno)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:212
+msgid ""
+"Protect the statistics from spam. Result will only be saved every X minutes "
+"from same IP. (0 = deactivated)"
+msgstr ""
+"Proteggi le statistiche dallo spam. I risultati saranno salvati solo ogni X "
+"minuti dallo stesso IP. (0 = disattivato)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:219
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:225
+msgid "Execute quiz only once"
+msgstr "Esegui il quiz solo una volta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:233
+msgid ""
+"If you activate this option, the user can complete the quiz only once. "
+"Afterwards the quiz is blocked for this user."
+msgstr ""
+"Se attivi questa opzione, l'utente può completare il quiz solo una volta. "
+"Successivamente il quiz viene bloccato per questo utente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:237
+msgid "This option applies to:"
+msgstr "Questa opzione si applica a:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:245
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:654
+msgid "all users"
+msgstr "tutti gli utenti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:249
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:658
+msgid "registered useres only"
+msgstr "solo gli utenti registrati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:253
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:662
+msgid "anonymous users only"
+msgstr "solo utenti anonimi"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:259
+msgid "user identification by cookie"
+msgstr "identificazione dell'utente attraverso i cookie"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:262
+msgid ""
+"If you activate this option, a cookie is set additionally for unregistrated "
+"(anonymous) users. This ensures a longer assignment of the user than the "
+"simple assignment by the IP address."
+msgstr ""
+"Se attivi questa opzione, un cookie viene aggiunto per gli utenti non "
+"registrati (anonimi). Questo assicura un assegnazione più lunga dell'utente "
+"rispetto all'assegnazione attraverso l'indirizzo IP."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:267
+msgid "Reset the user identification"
+msgstr "Resetta l'identificazione dell'utente"
+
+# @ default
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:268
+msgid "User identification has been reset."
+msgstr "L'identificazione dell'utente è stata resettata."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:270
+msgid "Resets user identification for all users."
+msgstr "Resetta l'identificazione dell'utente per tutti gli utenti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:279
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:284
+msgid "Hide correct- and incorrect message"
+msgstr "Nascondi il messaggio corretto-scorretto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:291
+msgid ""
+"If you enable this option, no correct- or incorrect message will be "
+"displayed."
+msgstr ""
+"Se attivi questa opzione non verranno mostrati i messaggi corretto o "
+"scorretto."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:304
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:309
+msgid "Correct and incorrect answer mark"
+msgstr "Marcatura della riposta corretta e scorretta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:316
+msgid ""
+"If you enable this option, answers won't be color highlighted as correct or "
+"incorrect. "
+msgstr ""
+"Se attivi questa opzione, le risposte non saranno evidenziate tramite colore "
+"come corrette o scorrette."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:329
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:334
+msgid "Show only specific number of questions"
+msgstr "Mostra solo un numero specifico di domande"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:341
+msgid ""
+"If you enable this option, maximum number of displayed questions will be X "
+"from X questions. (The output of questions is random)"
+msgstr ""
+"Se attivi questa opzione, il numero massimo di domande mostrate sarà X di X "
+"domande. (Le domande mostrate sono casuali)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:344
+msgid "The statistics function is not available in this option."
+msgstr "La funzione statistiche non è disponibile in questa opzione."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:347
+msgid ""
+"This option doesn't work reliable in connection with Frontend-Cache-Plugins."
+msgstr ""
+"Questa opzione non funziona affidabilmente in connessione con Plugin di "
+"Cache Frontend."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:351
+msgid "How many questions should be displayed simultaneously:"
+msgstr "Quante domande dovrebbero essere mostrate contemporaneamente:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:356
+msgid "in percent"
+msgstr "in percentuale"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:364
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:369
+msgid "Show average points"
+msgstr "Mostra la media dei punti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:376
+msgid "Statistics-function must be enabled."
+msgstr "La funzione Statistiche deve essere attivata."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:389
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:394
+msgid "Prerequisites"
+msgstr "Prerequisiti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:401
+msgid ""
+"If you enable this option, you can choose quiz, which user have to finish "
+"before he can start this quiz."
+msgstr ""
+"Se attivi questa opzione, puoi scegliere un quiz che l'utente deve finire "
+"prima di poter iniziare questo quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:404
+msgid ""
+"In all selected quizzes statistic function have to be active. If it is not "
+"it will be activated automatically."
+msgstr ""
+"In tutti i quiz selezionati la funzione statistiche deve essere attivata. Se "
+"non lo è, sarà attivata automaticamente."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:411
+msgid "Prerequisites (This quiz have to be finished)"
+msgstr "Prerequisiti (Questo quiz deve essere finito)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:450
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:455
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:468
+msgid "Question overview"
+msgstr "Visione generale delle domande."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:462
+msgid ""
+"Add at the top of the quiz a question overview, which allows easy "
+"navigation. Additional questions can be marked \"to review\"."
+msgstr ""
+"Aggiunge in cima al quiz un'anteprima delle domande, che permette una "
+"navigazione facile. Domande aggiuntive possono essere segnate come \"da "
+"rivedere\"."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:465
+msgid "Additional quiz overview will be displayed, before quiz is finished."
+msgstr ""
+"L'anteprima addizionale del quiz non sarà mostrata, prima che il quiz sia "
+"finito."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:496
+msgid ""
+"If you enable this option, no quiz overview will be displayed, before "
+"finishing quiz."
+msgstr ""
+"Se attivi questa opzione, non verrà mostrata un'anteprima del quiz, prima "
+"che il quiz sia finito."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:515
+msgid ""
+"If you enable this option, user won't be able to skip question. (only in "
+"\"Overview -> next\" mode). User still will be able to navigate over "
+"\"Question-Overview\""
+msgstr ""
+"Se attivi questa opzione, l'utente non sarà in grado di saltare le domande. "
+"(solo in modalità \"Anteprima -> prossima\"). L'utente sarà ancora in grado "
+"di navigare a \"Domanda-Anteprima\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:522
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:527
+msgid "E-mail notification"
+msgstr "Notificazione via e-mail"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:535
+msgid "for registered users only"
+msgstr "solo per utenti registrati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:539
+msgid "for all users"
+msgstr "per tutti gli utenti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:542
+msgid ""
+"If you enable this option, you will be informed if a user completes this "
+"quiz."
+msgstr ""
+"Se attivi questa opzione, sarai informato se un utente completa questo quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:545
+msgid "E-Mail settings can be edited in global settings."
+msgstr ""
+"Le impostazioni e-mail possono essere modificate nelle impostazioni globali."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:555
+msgid "Quiz-Mode"
+msgstr "Modalità-Quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:560
+msgid "Normal"
+msgstr "Normale"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:561
+msgid "Normal + Back-Button"
+msgstr "Normale + Pulsante Indietro"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:562
+msgid "Check -> continue"
+msgstr "Spunta -> continua"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:563
+msgid "Questions below each other"
+msgstr "Domande una sotto l'altra"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:575
+msgid ""
+"Displays all questions sequentially, \"right\" or \"false\" will be "
+"displayed at the end of the quiz."
+msgstr ""
+"Mostra tutte le domande in modo sequenziale, \"giusto\" or \"falso\" saranno "
+"mostrati alla fine del quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:578
+msgid "Allows to use the back button in a question."
+msgstr "Permetti di utilizzare il pulante indietro in una domanda."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:581
+msgid "Shows \"right or wrong\" after each question."
+msgstr "Mostra \"giusto o sbagliato\" dopo ogni domanda."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:584
+msgid ""
+"If this option is activated, all answers are displayed below each other, i."
+"e. all questions are on a single page."
+msgstr ""
+"Se questa opzione è attivata, tutte le risposte sono mostrate l'una sotto "
+"l'altra, ossia tutte le domande sono su una singola pagina."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:629
+msgid ""
+"The leaderboard allows users to enter results in public list and to share "
+"the result this way."
+msgstr ""
+"La classifica dei migliori permette agli utenti di inserire i risultati "
+"nella lista pubblica e di condividere il risultato in questo modo."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:632
+msgid "The leaderboard works independent from internal statistics function."
+msgstr ""
+"La classifica dei migliori funziona indipendentemente dalla funzione di "
+"statitiche interne."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:649
+msgid "Who can sign up to the list"
+msgstr "Chi può iscriversi alla lista"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:665
+msgid ""
+"Not registered users have to enter name and e-mail (e-mail won't be "
+"displayed)"
+msgstr ""
+"Gli utenti non registrati devono inserire il nome e l'email (l'email non "
+"sarà mostrata)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:671
+msgid "insert automatically"
+msgstr "inserisci automaticamente"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:679
+msgid ""
+"If you enable this option, logged in users will be automatically entered "
+"into leaderboard"
+msgstr ""
+"Se attivi questa opzione, gli utenti registrati saranno automaticamente "
+"inseriti nella classifica dei migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:685
+msgid "display captcha"
+msgstr "mostra il captcha"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:693
+msgid ""
+"If you enable this option, additional captcha will be displayed for users "
+"who are not registered."
+msgstr ""
+"Se attivi questa ozione, un captcha addizionale sara mostrato per utenti che "
+"non sono registrati."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:696
+msgid "This option requires additional plugin:"
+msgstr "Questa opzione richiede un plugin addizionale:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:701
+msgid "Plugin has been detected."
+msgstr "Il plugin è stato individuato."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:705
+msgid "Plugin is not installed."
+msgstr "Il plugin non è installato."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:713
+msgid "Sort list by"
+msgstr "Ordina elenco per"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:732
+msgid "Users can apply multiple times"
+msgstr "Gli utenti possono fare domanda più volte"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:743
+msgid "User can apply after:"
+msgstr "Gli utenti possono fare domanda dopo:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:745
+msgid "minute"
+msgstr "minuto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:752
+msgid "How many entries should be displayed"
+msgstr "Quante voci dovrebbero essere mostrate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:758
+msgid "Entries"
+msgstr "Voci"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:765
+msgid "Automatically display leaderboard in quiz result"
+msgstr ""
+"Mostra automaticamente la classifica dei migliori nel risultato del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:769
+msgid "Where should leaderboard be displayed:"
+msgstr "Dove dovrebbe essere mostrata la classifica dei migliori:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:772
+msgid "don't display"
+msgstr "non mostrare"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:776
+msgid "below the \"result text\""
+msgstr "sotto il \"testo del risultato\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:786
+msgid "in a button"
+msgstr "in un pulsante"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:829
+msgid "Quiz description"
+msgstr "Descrizione del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:832
+msgid "This text will be displayed before start of the quiz."
+msgstr "Questo testo sarà mostrato prima dell'inizio del quiz."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:840
+msgid "Results text"
+msgstr "Testo dei risultati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:843
+msgid ""
+"This text will be displayed at the end of the quiz (in results). (this text "
+"is optional)"
+msgstr ""
+"Questo testo sarà mostrato alla fine del quiz (nei risultati). (questo testo "
+"è opzionale)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:847
+msgid "Activate graduation"
+msgstr "Attiva promozione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:853
+msgid "Hint:"
+msgstr "Suggerimento:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:855
+msgid "Maximal 15 levels"
+msgstr "Massimo 15 livelli"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:857
+#, php-format
+msgid ""
+"Percentages refer to the total score of the quiz. (Current total %d points "
+"in %d questions."
+msgstr ""
+"le percentuali si riferiscono al punteggio totale del quiz. (Punti attuali "
+"totali %d in %d domande."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:860
+msgid "Values can also be mixed up"
+msgstr "I valori possono essere anche mescolati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:861
+msgid "10,15% or 10.15% allowed (max. two digits after the decimal point)"
+msgstr "consentito 10,15% o 10.15% (max. due cifre dopo il punto decimale)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:877
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:888
+msgid "from:"
+msgstr "da:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:877
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:888
+msgid "percent"
+msgstr "percento"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:877
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:888
+#, php-format
+msgid ""
+"(Will be displayed, when result-percent is >= <span class=\"resultProzent\">"
+"%s</span>%%)"
+msgstr ""
+"(Sarà mostrato, quando il risultato percentuale è >= <span class="
+"\"resultProzent\">%s</span>%%)"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:878
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:889
+msgid "Delete graduation"
+msgstr "Cancella promozione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:896
+msgid "Add graduation"
+msgstr "Aggiungi promozione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:32
+msgid "Quiz overview"
+msgstr "Anteprima del quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:34
+msgid "In case of problems"
+msgstr "In caso di problemi"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:36
+msgid "If quiz doesn't work in front-end, please try following:"
+msgstr "Se il quiz non funziona nel front-end, prova le seguenti:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:46
+msgid "Style Manager"
+msgstr "Style Manager"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:55
+msgid "ID"
+msgstr "ID"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:57
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:58
+msgid "Shortcode-Leaderboard"
+msgstr "Shortcode - Classifica dei migliori"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:86
+msgid "Preview"
+msgstr "Anteprima"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:116
+msgid "Add quiz"
+msgstr "Aggiungi quiz"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:120
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:126
+msgid "Export"
+msgstr "Esporta"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:127
+msgid ""
+"Choose the respective question, which you would like to export and press on "
+"\"Start export\""
+msgstr ""
+"Scegli la domanda che vorresti esportare e premi \"Inizia esportazione\""
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:131
+msgid "Start export"
+msgstr "Inizia esportazione"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:137
+msgid "Import only *.wpq files from known and trusted sources."
+msgstr "Importa solo file *.wpq da fonti conosciute e fidate."
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:145
+#, php-format
+msgid "Maximal %d MiB"
+msgstr "%d MiB Massimale"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:23
+#, php-format
+msgid "Quiz: %s - Statistics"
+msgstr "Quiz: %s - Statistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:28
+msgid "Stats not enabled"
+msgstr "Statistiche non abilitate"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:29
+msgid "Activate statistics"
+msgstr "Attiva le statistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:34
+msgid "Users"
+msgstr "Utenti"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:35
+msgid "Overview"
+msgstr "Anteprima"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:47
+msgid "Please select user name:"
+msgstr "Per favore scegli il nome utente:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:51
+msgid "Anonymous user"
+msgstr "Utente anonimo"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:67
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:192
+msgid "Hints used"
+msgstr "Suggerimenti utilizzati"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:68
+msgid "Points scored"
+msgstr "Punteggio ottenuto"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:105
+msgid "Sub-Total: "
+msgstr "Sub-Totale:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:139
+msgid "Reset statistics"
+msgstr "Resetta statistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:141
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:215
+msgid "Refresh"
+msgstr "Aggiorna"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:145
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:217
+msgid "Reset entire statistic"
+msgstr "Aggiorna tutte le statistiche"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_Statistics.php:163
+msgid "Show only users, who solved the quiz:"
+msgstr "Mostra solo gli utenti che hanno risolto il quiz:"
+
+# @ wp-pro-quiz
+#: wp-pro-quiz/lib/view/WpProQuiz_View_StyleManager.php:15
+msgid "Front"
+msgstr "Front"
+
+# @ learndash
+#. translators: plugin header field 'Name'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "WP-Pro-Quiz"
+msgstr "WP-Pro-Quiz"
+
+# @ learndash
+#. translators: plugin header field 'PluginURI'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "http://wordpress.org/extend/plugins/wp-pro-quiz"
+msgstr "http://wordpress.org/extend/plugins/wp-pro-quiz"
+
+# @ learndash
+#. translators: plugin header field 'Description'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "A powerful and beautiful quiz plugin for WordPress."
+msgstr "Un plugin potente e magnifico per i quiz in WordPress."
+
+# @ learndash
+#. translators: plugin header field 'Author'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "Julius Fischer"
+msgstr "Julius Fischer"
+
+# @ learndash
+#. translators: plugin header field 'AuthorURI'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "http://www.it-gecko.de"
+msgstr "http://www.it-gecko.de"
+
+# @ learndash
+#. translators: plugin header field 'Version'
+#: wp-pro-quiz/wp-pro-quiz.php:0
+msgid "0.23"
+msgstr "0.23"
+
+# @ learndash
+#: wp_autoupdate.php:227
+msgid "settings saved."
+msgstr "impostazioni salvate."
+
+# @ learndash
+#: wp_autoupdate.php:250
+msgid "Update License"
+msgstr "Aggiorna Licenza"

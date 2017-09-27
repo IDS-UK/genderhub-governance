@@ -1,0 +1,40 @@
+tr th {
+    padding-right: 20px;
+    text-align: right;
+}
+tr {
+	font-size: 13px;
+}
+.email-template {
+    min-height: 200px;
+    width: 400px;
+    max-width: 400px;
+}
+.samplecsv {
+    background-color: green;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    right: 10%;
+}
+.quicklinks a {
+	color: #ff0000;
+}
+.otherlinks {
+    background-color: green;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 20px 20px;
+    position: absolute;
+    right: 5%;
+    width: 300px;
+}
+.quicklinks.other_plugins > p {
+    color: #fff;
+    font-size: 15px;
+}
+.quicklinks h3 {
+    color: #c0c0c0;
+}

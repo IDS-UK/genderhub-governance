@@ -1,0 +1,69 @@
+#ld_activity .inside,
+#ld_assignments .inside {
+	padding: 0;
+	margin: 0;
+}
+
+#ld_activity_widget,
+#ld_assignments_widget {
+	max-height: 280px;
+	overflow: auto;
+}
+
+.activity_item {
+	border-top: 1px solid #fcfcfc;
+	border-bottom: 1px solid #dfdfdf;
+	padding: 10px;
+}
+
+.activity_item:last-child {
+	border-bottom: none;
+}
+
+.activity_user {
+	font-weight: bold;
+	color: #333;
+}
+.activity_date {
+	color: #888;
+	font-style: italic;
+}
+
+#ld_activity_actions{
+	border: none;
+	border-top: 1px solid #dfdfdf;
+	border-radius: 0;
+	padding: 3px 10px;
+	text-align: right;
+
+}
+
+.activity_export_quiz{
+	margin-right: 10px;
+}
+.activity_export_course{
+	margin-left: 10px;
+}
+
+.activity_item_actions{
+	text-align: right;
+	visibility: hidden;
+}
+
+.activity_item:hover .activity_item_actions{
+	visibility: visible;
+}
+
+.activity_loading,
+.activity_deleting {
+	display:none;
+	text-align:right;
+}
+
+.activity_lang {
+	display: none;
+}
+
+.assignment_pendant {
+	background: #ffffe0;
+}
